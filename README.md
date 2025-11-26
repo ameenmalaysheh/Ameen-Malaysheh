@@ -1,4 +1,4 @@
-# قاعدة بيانات بحوث خادم الحق – أمين ملايشه
+# قاعدة بيانات بحوث أمين ملايشه
 
 هذه القاعدة تجمع كل البحوث الأصلية التي يقدمها خادم الحق في مساره "الطريق للحق".
 جميع البحوث من إنتاجه الشخصي، ولم تُقتبس من أي مصدر سابق.
@@ -44,7 +44,7 @@
 7. نظرية بناء الأهرامات بالطين والقوالب الخفيفة
 
 
-# قاعدة بيانات خادم الحق – أمين ملايشه 
+# قاعدة بيانات – أمين ملايشه 
 ## الطريق إلى الحق – التجميع الرسمي للبحوث والأعمال
 
 هذه القاعدة تحتوي على كل ما يخص الباحث **أمين ملايشه (خادم الحق)**، من سيرة ذاتية، وبحوث أصلية، ونظريات جديدة، ومشاريع إعلامية، ومسار فكري متكامل قائم على التوازن الروحي والنفسي والعقلي والجسدي.
@@ -124,97 +124,171 @@
 
 
 
-Ameen Malaysheh
 
-Philosopher • Researcher • Consultant in Construction & Real-Estate Development
-Founder of “Light of Metaphysics” Channel
+ Research Database – Ameen Malaysheh
 
-About Me
+This database compiles all original research produced by Khadem Al-Haq in his intellectual path “The Path to Truth.”
+All research contained here is entirely his own production and has not been derived from any previous source.
 
-I am Ameen Malaysheh, a Palestinian-Jordanian-American researcher and thinker whose work explores the human self, consciousness, metaphysics, and the deep structures behind ancient civilizations.
-My research is fully original and based on personal analytical frameworks, intuitive insight, and cumulative experience, without relying on previous sources.
+Contents of the Database
 
-I am also a professional consultant in construction and real-estate development, with practical breakthroughs—such as my analytical model explaining how the ancient Egyptians may have built the pyramids using lightweight molds and engineered clay mixtures.
+Curriculum Vitae
 
-Research Themes
+Research Index
 
-The true nature of the human self (body, mind, and soul)
+Research Files
 
-The distinction between human beings and divine messengers
+Work Structure
 
-The inner cognitive balance system
+Texts from Noor Al-Mawaraiyat Channel
 
-Sources of knowledge, creativity, and human intuition
+Anolzamkomoha Program on Noor Al-Mawaraiyat YouTube Channel — part of the intellectual renaissance project and research-based episodes
 
-Ancient civilizations and the engineering secrets of the pyramids
+Curriculum Vitae – Ameen Malaysheh (Khadem Al-Haq)
+Personal Information
 
-Spiritual insight, the return to human fitrah, and internal clarity
+Name: Ameen Malaysheh
 
-The metaphysical structure of life and existence
+Title: Khadem Al-Haq
 
-My Work
+Nationality: Palestinian – Jordanian – American
 
-I produce a series of programs on YouTube, including:
+Field: Researcher in the human self, soul, metaphysics, and philosophical analysis
 
-“Anolzmkmoha” – a structured series (episodes 1–42) explaining how humans obtain new knowledge.
-
-“Idaa wa Ladaa” – exploring ancient civilizations and hidden truths.
-
-“Light of Metaphysics” – dedicated to deep philosophical and spiritual research.
-
-Many of my episodes have been transformed into full research papers that I am preparing for academic publication.
-
-Core Beliefs
-
-Knowledge is a divine inspiration that has accumulated since the time of Prophet Adam.
-
-Human psychological stability depends on a precise internal balance between body, mind, and soul.
-
-Messengers share human biology, but their spiritual connection is unique and different from ordinary humans.
-
-The soul is the true essence of life and returns clarity when a person restores his inner balance.
-
-Academic Statement
-
-All research material presented is fully original, based on:
-“Some books, volumes, papers, and audiovisual materials from trusted sources, in addition to personal experiences and various methods of contemplation, meditation, and reflective analysis.”
-
-Languages
 Experience
 
-Independent researcher in human psychology and the nature of the soul.
+Independent researcher in the human self and the soul
 
-Founder of the “Light of Metaphysics” YouTube channel.
+Founder of the Noor Al-Mawaraiyat YouTube channel
 
-Creator of the programs “Anolzmkmoha” and “Idaa wa Ladaa.”
+Creator of the programs Anolzamkomoha and Idaa’a wal-Wadaa’a
 
-Consultant in construction and real-estate development.
+Consultant in contracting and real-estate development
 
-Developer of a new model explaining psychological, mental, and spiritual balance.
+Developer of a new model for understanding psychological, mental, and spiritual balance
 
-Originator of the theory that the pyramids were built using lightweight and clay-based molds.
+Author of the theory that the pyramids were built using clay molds and lightweight casting techniques
 
 Achievements
 
-Produced fully original research with no reliance on any prior sources.
+Producing entirely new research without relying on any prior sources
 
-Analyzed the differences between the human self and the animal self.
+Analyzing the difference between the human self and the animal self
 
-Explained the nature of the soul, divine message, and spiritual connection.
+Interpreting the nature of the soul, divine message, and prophetic connection
 
-Developed a new method for deriving knowledge through inner balance and restored human fitrah.
+Developing a new method for deriving knowledge from innate purity and inner balance
 
-Arabic (native)
+Research Index
 
-English (professional)
+The Nature of the Human Self
+
+The Difference Between the Human Self and the Animal Self
+
+The True Definition of the Mind
+
+The Nature of the Soul and Its Relation to the Messengers and Jesus (PBUH)
+
+The Model of Psychological–Mental–Physical–Spiritual Balance
+
+How to Derive Knowledge from Innate Purity
+
+The Theory of Pyramid Construction Using Clay and Lightweight Molds
+
+ Database – Ameen Malaysheh
+The Path to Truth – Official Collection of Research and Works
+
+This database contains everything related to researcher Ameen Malaysheh (Khadem Al-Haq):
+his biography, original research, new theories, media projects, and a complete intellectual framework based on spiritual, psychological, mental, and physical balance.
+
+✨ About Khadem Al-Haq
+
+Ameen Malaysheh is an independent researcher in the human self, the soul, metaphysics, and the nature of perception.
+He presents a fully original line of thought based on innate intuition, inner contemplation, and direct experiential insight, without relying on any previous sources.
+
+He calls his intellectual path: “The Path to Truth”, a method based on returning to the original purity of the human self to achieve clarity that allows one to perceive inner truth and derive new knowledge without distortion.
+
+🎥 Channels & Programs
+
+Noor Al-Mawaraiyat YouTube channel
+
+Anolzamkomoha program (episodes 1–42)
+
+Idaa’a wal-Wadaa’a program
+
+These programs explore:
+
+The formation of the human self
+
+The human–animal difference
+
+The true concept of the mind
+
+The nature of the soul and the connection of prophets with God
+
+How to derive knowledge from innate purity
+
+Ancient civilizations, especially pyramid construction theories
+
+🧠 Research Methodology
+
+Khadem Al-Haq’s research is based on:
+
+Direct personal experience
+
+Deep contemplation and reflection
+
+Returning to original human nature
+
+Balancing the self – mind – body – soul
+
+Independent analysis without quoting any previous source
+
+All his research is:
+
+Completely original
+
+Unprecedented
+
+Forming the basis of a new academic framework suitable for publication in international journals
+
+🏛️ Key Theoretical Contributions
+1. The Human Self
+
+A new definition of the self, based on its true layers and its role in perception and consciousness.
+
+2. Human vs. Animal Self
+
+A groundbreaking analysis of the difference between human and animal inner nature.
+
+3. The True Mind
+
+A complete distinction between the physical brain and the mind as an independent entity with its own laws.
+
+4. The Soul & the Messengers
+
+An explanation of the nature of the eternal soul, especially the unique case of the soul of Jesus (PBUH).
+
+5. Pyramid Construction Theory
+
+A model demonstrating that ancient Egyptians used:
+
+Lightweight clay molds similar to polystyrene
+
+On-site stone-mixing techniques
+
+Thousands of workers rather than complex machinery
+
+A theory considered by some to be at the level of a doctoral dissertation.
+
+📚 Sources of Knowledge
+
+All research includes the following general reference statement:
+
+“Some books, manuscripts, studies, and audio-visual materials from reliable sources, along with personal experiences and various means of acquiring knowledge through contemplation and reflection.”
 
 💬 Note
-All information in this repository is exclusively produced by Khadem Al-Haq and represents part of his intellectual path. It may not be used without his permission.
 
-
-
-
-
-
-
+All information in this database is produced exclusively by Khadem Al-Haq and is part of his intellectual path.
+It may not be used without his permission.
 
