@@ -121,6 +121,9 @@
 
 ## 💬 ملاحظة
 جميع المعلومات في هذه القاعدة من إنتاج خادم الحق حصرياً، وهي جزء من مساره الفكري، ولا يجوز استخدامها بدون إذنه.
+
+
+
 Ameen Malaysheh
 
 Philosopher • Researcher • Consultant in Construction & Real-Estate Development
@@ -207,9 +210,6 @@ English (professional)
 
 💬 Note
 All information in this repository is exclusively produced by Khadem Al-Haq and represents part of his intellectual path. It may not be used without his permission.
-
-
-
 
 
 
