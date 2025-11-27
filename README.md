@@ -124,8 +124,13 @@
 
 
 
-## 🔗 رابط البحث الرسمي (DOI)
+## 🔗 روابط التحميل الرسمية للبحث
+
+- رابط DOI الرسمي:
 https://doi.org/10.5281/zenodo.17732412
+
+- رابط Google Drive:
+https://drive.google.com/file/d/1z7SQb3C-cObVPbWDiYr5IqQ-Xf5TbPIP/view?usp=drive_link
 
  Research Database – Ameen Malaysheh
 
