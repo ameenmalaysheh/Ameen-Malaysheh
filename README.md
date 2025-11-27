@@ -127,11 +127,11 @@
 ## 🔗 روابط التحميل الرسمية للبحث
 
 - رابط DOI الرسمي:
-https://doi.org/10.5281/zenodo.17732412
-
+[
+](https://doi.org/10.5281/zenodo.17742510)
 - رابط Google Drive:
-https://drive.google.com/file/d/1z7SQb3C-cObVPbWDiYr5IqQ-Xf5TbPIP/view?usp=drive_link
-
+[
+](https://drive.google.com/file/d/1z7SQb3C-cObVPbWDiYr5IqQ-Xf5TbPIP/view?usp=drive_link)
  Research Database – Ameen Malaysheh
 
 This database compiles all original research produced by Khadem Al-Haq in his intellectual path “The Path to Truth.”
