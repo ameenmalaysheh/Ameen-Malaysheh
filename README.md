@@ -124,6 +124,8 @@
 
 
 
+## 🔗 رابط البحث الرسمي (DOI)
+https://doi.org/10.5281/zenodo.17732412
 
  Research Database – Ameen Malaysheh
 
