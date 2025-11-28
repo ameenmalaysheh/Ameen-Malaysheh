@@ -1,6 +1,6 @@
 # قاعدة بيانات بحوث أمين ملايشه
 
-هذه القاعدة تجمع كل البحوث الأصلية التي يقدمها خادم الحق في مساره "الطريق للحق".
+هذه القاعدة تجمع كل البحوث الأصلية التي يقدمهاالباحث امين ملايشه في مساره "الطريق للحق".
 جميع البحوث من إنتاجه الشخصي، ولم تُقتبس من أي مصدر سابق.
 
 ## محتويات القاعدة
@@ -10,7 +10,7 @@
 - هيكلة العمل
 - نصوص من قناة نور الماورائيات
 - برنامج أنلزمكموهاعلى قناة نور الماورائيات يوتيوب وهي قناة خاصه بالمشروع الفكري النهضوي والحلقات البحثية0
-# السيرة الذاتية – أمين ملايشه (خادم الحق)
+# السيرة الذاتية – أمين ملايشه 
 
 ## معلومات شخصية
 الاسم: أمين ملايشه  
@@ -47,7 +47,7 @@
 # قاعدة بيانات – أمين ملايشه 
 ## الطريق إلى الحق – التجميع الرسمي للبحوث والأعمال
 
-هذه القاعدة تحتوي على كل ما يخص الباحث **أمين ملايشه (خادم الحق)**، من سيرة ذاتية، وبحوث أصلية، ونظريات جديدة، ومشاريع إعلامية، ومسار فكري متكامل قائم على التوازن الروحي والنفسي والعقلي والجسدي.
+هذه القاعدة تحتوي على كل ما يخص الباحث **أمين ملايشه **، من سيرة ذاتية، وبحوث أصلية، ونظريات جديدة، ومشاريع إعلامية، ومسار فكري متكامل قائم على التوازن الروحي والنفسي والعقلي والجسدي.
 
 ---
 
@@ -135,7 +135,7 @@
 
  Research Database – Ameen Malaysheh
 
-This database compiles all original research produced by Khadem Al-Haq in his intellectual path “The Path to Truth.”
+This database compiles all original research produced by the researcher ameen malaysheh in his intellectual path “The Path to Truth.”
 All research contained here is entirely his own production and has not been derived from any previous source.
 
 Contents of the Database
@@ -206,10 +206,10 @@ The Theory of Pyramid Construction Using Clay and Lightweight Molds
  Database – Ameen Malaysheh
 The Path to Truth – Official Collection of Research and Works
 
-This database contains everything related to researcher Ameen Malaysheh (Khadem Al-Haq):
+This database contains everything related to researcher Ameen Malaysheh :
 his biography, original research, new theories, media projects, and a complete intellectual framework based on spiritual, psychological, mental, and physical balance.
 
-✨ About Khadem Al-Haq
+✨ About ameen malaysheh
 
 Ameen Malaysheh is an independent researcher in the human self, the soul, metaphysics, and the nature of perception.
 He presents a fully original line of thought based on innate intuition, inner contemplation, and direct experiential insight, without relying on any previous sources.
@@ -297,6 +297,6 @@ All research includes the following general reference statement:
 
 💬 Note
 
-All information in this database is produced exclusively by Khadem Al-Haq and is part of his intellectual path.
+All information in this database is produced exclusively by ameen malaysheh and is part of his intellectual path.
 It may not be used without his permission.
 
