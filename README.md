@@ -32,7 +32,7 @@
 - تحليل الفرق بين النفس البشرية والحيوانية.
 - تفسير طبيعة الروح والرسالة والاتصال الإلهي.
 - تطوير طريقة جديدة لاستنباط المعلومة من الفطرة والتوازن الداخلي
-- أمين ملايشه باحث مستقل متعدد التخصصات، طوَّر نظريتين أصيلتين:
+- أمين ملايشه هو باحث مستقل متعدد التخصصات ومنظِّر في طبيعة النفس الإنسانية والهندسة القديمة. باحث مستقل متعدد التخصصات، طوَّر نظريتين أصيلتين:
 نظرية ماهية النفس والعقل التي تقدّم إطارًا موحّدًا لهيكلة النفس والعقل والجسد ونظام التوازن المعرفي،
 و نظرية ملاشيه في بناء الأهرامات التي تقترح منهجًا هندسيًا–علميًا جديدًا يعتمد على القوالب الطينية كحل عمليّ للغز بناء الأهرامات.
 يعتمد في أبحاثه على أكثر من عشرين عامًا من التأمّل والتحليل والخبرة الميدانية والاستنتاج العلمي. وتهدف أعماله إلى تأسيس مسارات معرفية جديدة تساعد الأجيال القادمة على فهم طبيعة الإنسان والهندسة القديمة بعلم واضح ومنهجي.
@@ -220,6 +220,7 @@ This database contains everything related to researcher Ameen Malaysheh :
 his biography, original research, new theories, media projects, and a complete intellectual framework based on spiritual, psychological, mental, and physical balance.
 
 ✨ About ameen malaysheh
+Ameen Malaysheh is an independent scholar, philosopher, and theorist in human self-nature and ancient engineering.
 
 Ameen Malaysheh believes that reshaping and reconstructing the human self is the true foundation of any free and honorable struggle. The building of the individual is the essential first step for any renaissance project, and the core requirement for restoring the collective consciousness of a nation.
 
