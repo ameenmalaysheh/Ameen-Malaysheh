@@ -13,7 +13,8 @@
 # السيرة الذاتية – أمين ملايشه 
 
 ## معلومات شخصية
-الاسم: أمين ملايشه  
+الاسم: أمين ملايشه
+يؤمن أمين ملايشه بأن إعادة صياغة وتركيب النفس البشرية هي الأساس الحقيقي لأي عمل نضالي حرّ وشريف؛ فبناء الإنسان هو الخطوة الأولى لكل مشروع نهضوي، وهو الشرط الجوهري لنهضة الأمم وعودة الوعي الجمعي إلى مساره الطبيعي.  
 اللقب: خادم الحق  
 الجنسية: فلسطيني – أردني – أمريكي  
 المجال: باحث في النفس والروح والماورائيات، ومحلل فلسفي.
@@ -219,6 +220,8 @@ This database contains everything related to researcher Ameen Malaysheh :
 his biography, original research, new theories, media projects, and a complete intellectual framework based on spiritual, psychological, mental, and physical balance.
 
 ✨ About ameen malaysheh
+
+Ameen Malaysheh believes that reshaping and reconstructing the human self is the true foundation of any free and honorable struggle. The building of the individual is the essential first step for any renaissance project, and the core requirement for restoring the collective consciousness of a nation.
 
 Ameen Malaysheh is an independent interdisciplinary researcher who developed two original theories:
 The Nature of the Human Self & Mind, which presents a unified framework explaining the structure of the soul, mind, body, and the cognitive balance system; and the Malaysheh Pyramid Construction Theory, which proposes an innovative clay-mold engineering method as a practical solution to the mystery of pyramid building.
