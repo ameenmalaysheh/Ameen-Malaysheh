@@ -30,7 +30,11 @@
 - إنتاج بحوث جديدة بالكامل بدون أي مصدر سابق.
 - تحليل الفرق بين النفس البشرية والحيوانية.
 - تفسير طبيعة الروح والرسالة والاتصال الإلهي.
-- تطوير طريقة جديدة لاستنباط المعلومة من الفطرة والتوازن الداخلي.
+- تطوير طريقة جديدة لاستنباط المعلومة من الفطرة والتوازن الداخلي
+- أمين ملاشيه باحث مستقل متعدد التخصصات، طوَّر نظريتين أصيلتين:
+نظرية ماهية النفس والعقل التي تقدّم إطارًا موحّدًا لهيكلة النفس والعقل والجسد ونظام التوازن المعرفي،
+و نظرية ملاشيه في بناء الأهرامات التي تقترح منهجًا هندسيًا–علميًا جديدًا يعتمد على القوالب الطينية كحل عمليّ للغز بناء الأهرامات.
+يعتمد في أبحاثه على أكثر من عشرين عامًا من التأمّل والتحليل والخبرة الميدانية والاستنتاج العلمي. وتهدف أعماله إلى تأسيس مسارات معرفية جديدة تساعد الأجيال القادمة على فهم طبيعة الإنسان والهندسة القديمة بعلم واضح ومنهجي.
 
 
 # فهرس البحوث
@@ -215,6 +219,10 @@ This database contains everything related to researcher Ameen Malaysheh :
 his biography, original research, new theories, media projects, and a complete intellectual framework based on spiritual, psychological, mental, and physical balance.
 
 ✨ About ameen malaysheh
+
+Ameen Malaysheh is an independent interdisciplinary researcher who developed two original theories:
+The Nature of the Human Self & Mind, which presents a unified framework explaining the structure of the soul, mind, body, and the cognitive balance system; and the Malaysheh Pyramid Construction Theory, which proposes an innovative clay-mold engineering method as a practical solution to the mystery of pyramid building.
+His work is based on more than two decades of reflection, analysis, field experience, and cross-disciplinary reasoning. Malaysheh’s research aims to establish new scientific directions that help future generations understand both human nature and ancient engineering through clear, evidence-based frameworks.
 
 Ameen Malaysheh is an independent researcher in the human self, the soul, metaphysics, and the nature of perception.
 He presents a fully original line of thought based on innate intuition, inner contemplation, and direct experiential insight, without relying on any previous sources.
