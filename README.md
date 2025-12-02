@@ -140,11 +140,11 @@ https://orcid.org/0009-0008-6466-1883
 ](https://doi.org/10.5281/zenodo.17764371)[
 ](https://doi.org/10.5281/zenodo.17763939)
  Research Database – Ameen Malaysheh
- 
-Project DOI
+ [
+](https://doi.org/10.17605/OSF.IO/U93A8)Project DOI
 https://doi.org/10.17605/OSF.IO/4H86Y
-[
-](https://doi.org/10.17605/OSF.IO/WEAY8)
+[[
+](https://doi.org/10.17605/OSF.IO/VFESD)](https://doi.org/10.17605/OSF.IO/TKZQU)](https://doi.org/10.17605/OSF.IO/WEAY8)
 This database compiles all original research produced by the researcher ameen malaysheh in his intellectual path “The Path to Truth.”
 All research contained here is entirely his own production and has not been derived from any previous source.
 
