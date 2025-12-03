@@ -63,7 +63,30 @@
 
 ---
 
-## 🎥 القنوات والبرامج
+##Metaphysical Light Research Institute (MLRI)
+معهد نور الماورائيات للبحث العلمي :
+تأسست المؤسسة كمظلّة علمية شاملة تجمع تحتها جميع الأبحاث التي يقدمها الباحث امين ملايشه؛ وهي أبحاث جديدة بالكامل وغير مسبوقة، مبنيّة على التأمل العميق، والتحليل العلمي المنهجي، والتجربة الشخصية، والفهم المتسلسل لبنية الإنسان والكون.
+تعمل المؤسسة على تطوير إطار بحثي مستقل يجمع بين:
+العلوم الدنيوية الحديثة 
+العلوم العقائدية والأنثروبولوجية 
+الماورائيات والبعد الروحي للوجود 
+نقاط التقاطع بين العلم والعقيدة والوعي 
+وذلك بهدف بناء نموذج شامل لفهم النفس والوعي والإنسان والكون، استناداً إلى منهج فكري ومعرفي متكامل، يعتمد على:
+القراءة التحليلية للعلوم 
+الربط بين البنى النفسية والعقلية والروحية 
+تفسير الظواهر الوجودية من منظور علمي–فلسفي 
+استنباط المعرفة من خلال التوازن النفسي (العقلي–الجسدي–الروحي) 
+تُؤطّر المؤسسة الأبحاث في عدة مسارات رئيسية، منها:
+بنية النفس البشرية، باعتبار أن النفس هي نتيجة الترابط بين الروح والعقل والجسد ضمن تكوين واحد متكامل. 
+والتمييز بينها وبين الحيوان، إذ إن الحيوان يمتلك روحاً فقط، بينما لا يمتلك عقلاً وإنما دماغاً يعمل آلياً؛ وبغياب العقل لا يتحقق الترابط المطلوب، وبالتالي لا تتكوّن لديه النفس. 
+منظومة التوازن العقلي والنفسي والجسدي 
+العلاقة والفرق بين العقل والدماغ 
+فهم الخلق والوجود من منظور علمي–ماورائي 
+دراسات الوعي، الروح، والإلهام 
+تحليل الحضارات القديمة، ومنها نظرية القوالب الطينية في بناء الأهرامات 
+فهم طرق الإلهام والمعرفة لدى الإنسان وكيفية إنتاج المعلومة الجديدة 
+وتسعى المؤسسة إلى تقديم معرفتها للعالم من خلال منصات علمية مرموقة، وتوثيق أبحاثها ضمن أنظمة النشر العالمية، وبناء أرشيف بحثي متكامل يضمن استدامة هذه المعرفة للأجيال القادمة. القنوات والبرامج
+
 - قناة **نور الماورائيات** على يوتيوب.  
 - برنامج **أنولزمكموها** (حلقات 1–42).  
 - برنامج **إضاءة وضاءة**.  
@@ -233,7 +256,29 @@ He presents a fully original line of thought based on innate intuition, inner co
 
 He calls his intellectual path: “The Path to Truth”, a method based on returning to the original purity of the human self to achieve clarity that allows one to perceive inner truth and derive new knowledge without distortion.
 
-🎥 Channels & Programs
+Metaphysical Light Research Institute (MLRI):
+
+The institute was established as a comprehensive scientific umbrella that encompasses all the research produced by researcher Ameen Malaysheh; research that is entirely new and unprecedented, based on deep contemplation, systematic scientific analysis, personal experience, and a sequential understanding of the structure of the human being and the universe.
+The institute works on developing an independent research framework that integrates:
+Modern worldly sciences
+Doctrinal and anthropological sciences
+Metaphysics and the spiritual dimension of existence
+Intersection points between science, doctrine, and consciousness
+This is aimed at building a comprehensive model for understanding the self, consciousness, the human being, and the universe, based on an integrated intellectual and epistemological approach that relies on:
+Analytical reading of sciences
+Connecting psychological, mental, and spiritual structures
+Interpreting existential phenomena from a scientific–philosophical perspective
+Deriving knowledge through psychological balance (mental–physical–spiritual)
+The institute frames its research into several main tracks, including:
+The structure of the human self, considering the self as the result of the integration of the spirit, mind, and body within one unified composition.
+And distinguishing it from animals, as the animal possesses only a spirit, while it does not possess a mind but rather a brain that functions automatically; and with the absence of the mind, the required integration does not occur, and therefore the self does not form in animals.
+The system of mental, psychological, and physical balance
+The relationship and difference between the mind and the brain
+Understanding creation and existence from a scientific–metaphysical perspective
+Studies of consciousness, spirit, and inspiration
+Analysis of ancient civilizations, including the clay-mold theory of pyramid construction
+Understanding the mechanisms of inspiration and knowledge in humans, and how new information is produced
+The institute seeks to present its knowledge to the world through reputable scientific platforms, document its research within global publishing systems, and build a comprehensive academic archive that ensures the preservation and continuity of this knowledge for future generations. Channels & Programs
 
 Noor Al-Mawaraiyat YouTube channel
 
