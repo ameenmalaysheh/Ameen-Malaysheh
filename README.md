@@ -63,10 +63,10 @@
 
 ---
 
-##Metaphysical Light Research Institute (MLRI)
-معهد نور الماورائيات للبحث العلمي :
-تأسست المؤسسة كمظلّة علمية شاملة تجمع تحتها جميع الأبحاث التي يقدمها الباحث امين ملايشه؛ وهي أبحاث جديدة بالكامل وغير مسبوقة، مبنيّة على التأمل العميق، والتحليل العلمي المنهجي، والتجربة الشخصية، والفهم المتسلسل لبنية الإنسان والكون.
-تعمل المؤسسة على تطوير إطار بحثي مستقل يجمع بين:
+##Metaphysical Light Research channel
+قناة نور الماورائيات للبحث العلمي :
+تأسست القناه كمظلّة علمية شاملة تجمع تحتها جميع الأبحاث التي يقدمها الباحث امين ملايشه؛ وهي أبحاث جديدة بالكامل وغير مسبوقة، مبنيّة على التأمل العميق، والتحليل العلمي المنهجي، والتجربة الشخصية، والفهم المتسلسل لبنية الإنسان والكون.
+تعمل القناه على تطوير إطار بحثي مستقل يجمع بين:
 العلوم الدنيوية الحديثة 
 العلوم العقائدية والأنثروبولوجية 
 الماورائيات والبعد الروحي للوجود 
@@ -76,7 +76,7 @@
 الربط بين البنى النفسية والعقلية والروحية 
 تفسير الظواهر الوجودية من منظور علمي–فلسفي 
 استنباط المعرفة من خلال التوازن النفسي (العقلي–الجسدي–الروحي) 
-تُؤطّر المؤسسة الأبحاث في عدة مسارات رئيسية، منها:
+تُؤطّر القناةالأبحاث في عدة مسارات رئيسية، منها:
 بنية النفس البشرية، باعتبار أن النفس هي نتيجة الترابط بين الروح والعقل والجسد ضمن تكوين واحد متكامل. 
 والتمييز بينها وبين الحيوان، إذ إن الحيوان يمتلك روحاً فقط، بينما لا يمتلك عقلاً وإنما دماغاً يعمل آلياً؛ وبغياب العقل لا يتحقق الترابط المطلوب، وبالتالي لا تتكوّن لديه النفس. 
 منظومة التوازن العقلي والنفسي والجسدي 
@@ -85,7 +85,7 @@
 دراسات الوعي، الروح، والإلهام 
 تحليل الحضارات القديمة، ومنها نظرية القوالب الطينية في بناء الأهرامات 
 فهم طرق الإلهام والمعرفة لدى الإنسان وكيفية إنتاج المعلومة الجديدة 
-وتسعى المؤسسة إلى تقديم معرفتها للعالم من خلال منصات علمية مرموقة، وتوثيق أبحاثها ضمن أنظمة النشر العالمية، وبناء أرشيف بحثي متكامل يضمن استدامة هذه المعرفة للأجيال القادمة. القنوات والبرامج
+وتسعى القناه إلى تقديم معرفتها للعالم من خلال منصات علمية مرموقة، وتوثيق أبحاثها ضمن أنظمة النشر العالمية، وبناء أرشيف بحثي متكامل يضمن استدامة هذه المعرفة للأجيال القادمة. القنوات والبرامج
 
 - قناة **نور الماورائيات** على يوتيوب.  
 - برنامج **أنولزمكموها** (حلقات 1–42).  
@@ -256,9 +256,9 @@ He presents a fully original line of thought based on innate intuition, inner co
 
 He calls his intellectual path: “The Path to Truth”, a method based on returning to the original purity of the human self to achieve clarity that allows one to perceive inner truth and derive new knowledge without distortion.
 
-Metaphysical Light Research Institute (MLRI):
+Metaphysical Light Institute channel
 
-The institute was established as a comprehensive scientific umbrella that encompasses all the research produced by researcher Ameen Malaysheh; research that is entirely new and unprecedented, based on deep contemplation, systematic scientific analysis, personal experience, and a sequential understanding of the structure of the human being and the universe.
+The channel was established as a comprehensive scientific umbrella that encompasses all the research produced by researcher Ameen Malaysheh; research that is entirely new and unprecedented, based on deep contemplation, systematic scientific analysis, personal experience, and a sequential understanding of the structure of the human being and the universe.
 The institute works on developing an independent research framework that integrates:
 Modern worldly sciences
 Doctrinal and anthropological sciences
