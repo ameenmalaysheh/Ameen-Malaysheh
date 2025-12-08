@@ -152,10 +152,251 @@
 
 
 
-## 🔗 روابط التحميل الرسمية للبحث
+
+
+The Metaphysical Light Research Institute (MLRI) was founded by Ameen Malaysheh as an independent interdisciplinary research initiative dedicated to developing new conceptual frameworks in consciousness studies, human nature, value systems, metaphysics, and socio-economic theory.
+MLRI aims to produce original knowledge that bridges scientific inquiry with deep metaphysical insight — offering new ways to understand the human being, the universe, and the dynamics of value within society.
+The institute serves as a platform for pioneering research that seeks to unify scientific reasoning with intuitive understanding, providing models that help humanity advance toward clarity, balance, and a more meaningful future.
+
+
+
+معهد نور الماورائيات للبحث العلمي (MLRI) هو مبادرة بحثية مستقلة أسسها أمين ملايشه، تهدف إلى تطوير نماذج معرفية جديدة في الوعي، وطبيعة النفس البشرية، وأنظمة القيمة، والماورائيات، والنظريات الاجتماعية-الاقتصادية.
+يركّز المعهد على إنتاج معرفة مبتكرة تجمع بين المنهج العلمي الحديث والبصيرة الإنسانية العميقة، لتقديم رؤى جديدة حول الإنسان، والكون، وحركة القيمة داخل المجتمع.
+ويعمل المعهد كمنصّة للبحوث الريادية التي تسعى إلى توحيد العقل التحليلي مع الفهم التأمّلي، وبناء أطر تساعد البشرية على التقدّم نحو مستقبل أكثر وضوحًا وتوازنًا ومعنى.
+
+⭐ 
+الرؤية المشتركة بين معهد نور الماورائيات (MLRI) وجامعة هدي الأنبياء
+
+يقوم معهد نور الماورائيات للبحوث (MLRI) وجامعة هدي الأنبياء على فلسفة موحّدة ترى أن المعرفة ليست مجرد معلومة تُحفظ، ولا شهادة تُعلَّق، بل فتحٌ نورانيّ يحدث داخل الإنسان عندما تكتمل أدوات وعيه، وتنضج مداركه، ويتصل بجذور نفسه وبصيرته.
+
+كلا المؤسستين تتعاملان مع الإنسان بوصفه منظومة عقل وروح ووعي، وليس ككيان وظيفي يحتاج إلى تدريب تقني فقط. لذلك ترتكز الرؤية التأسيسية على:
+
+١. منظومة العقل الإنسانية كمرجع علمي
+
+العقل — كما توضّح رؤية الجامعة — ليس عضوًا منفصلًا، بل منظومة مترابطة تتكوّن من:
+
+القلب
+
+الدماغ
+
+الأعصاب
+
+جهاز الاتزان
+
+دوائر التفاعل بين هذه المكوّنات
+
+ويكتمل هذا النظام تدريجيًا حتى يصل إلى نضجه الأعلى بين 33–40 سنة، وهو السن الذي ظهرت فيه الرسالات والمهام الكبرى، مما يشكّل جسرًا بين العلم العصبي و الإشارات الروحية.
+
+٢. MLRI كمختبر بحثي للوعي والماورائيات
+
+معهد MLRI هو الذراع البحثية التي:
+
+تطوّر النماذج العلمية–الروحية
+
+تنتج الأطر النظرية الجديدة
+
+توثّق الظواهر المتعلقة بالوعي والبصيرة
+
+تدمج الفيزياء، الفلسفة، علم النفس، والروحانيات في منظومة واحدة
+
+المعهد هو مكان "صناعة الفكرة" و"ولادة المفهوم".
+
+٣. جامعة هدي الأنبياء كتطبيق أكاديمي–تربوي للرؤية
+
+الجامعة ليست مؤسسة تقليدية، بل رحلة نور تمتد 20 سنة، تمر بخمس مراحل:
+
+معرفة النفس (4 سنوات)
+
+علوم العلوّ — الفيزياء والعقول والكون (4 سنوات)
+
+الماورائيات — الطاقة والبصيرة (4 سنوات)
+
+فن الاستنباط — توليد المعلومة من الداخل (4 سنوات)
+
+التخصّص النوراني — العلم الذي يولد داخل الطالب نفسه (4 سنوات)
+
+هذه الرحلة تصنع إنسانًا متكاملًا، لا حامِل شهادة فقط.
+
+٤. العلاقة بين MLRI والجامعة
+
+MLRI هو العقل البحثي المُنتِج للنماذج والنظريات.
+
+الجامعة هي الوعاء الأكاديمي الذي يطبّق هذه النماذج ويحملها إلى طلاب العالم.
+
+كلاهما يهدف إلى إعادة تعريف العلم بوصفه نورًا، وإعادة تعريف الإنسان بوصفه مصدرًا للمعرفة.
+
+٥. الرؤية الهيكلية المبدئية
+
+الهيكلية المشتركة تستند إلى ثلاث ركائز:
+
+أ. الإنسان
+
+موضوع البحث، هدف التعليم، ومصدر المعرفة.
+
+ب. المنهج
+
+دمج:
+
+العلوم الحديثة
+
+الفلسفة
+
+الوعي
+
+التجربة
+
+الملاحظة
+
+الاستنباط الداخلي
+
+ج. الرسالة
+
+"إعادة الإنسان إلى فطرته النورانية، وإعادة العلم إلى مكانته كفتحٍ وبصيرة، لا كوثيقة ورقية."
+
+
+
+⭐ 
+ملخص كتاب "بنك الأمم للمقايضة"
+ملخص الكتاب
+
+كتاب "بنك الأمم للمقايضة" هو عمل بحثي أصيل من تأليف أمين ملايشه، يقدّم أول نموذج اقتصادي عالمي قادر على اجتثاث الفقر من جذوره من خلال تحويل الوقت، والمهارة، والعمل، والموارد الإنسانية إلى قيمة اقتصادية قابلة للتداول دون الحاجة للنقد.
+
+يعيد الكتاب تعريف الاقتصاد بوصفه اقتصاد حركة، حيث يصبح الإنسان — لا المال — هو محور الدورة الإنتاجية. ويطرح إطارًا أمميًا شاملًا يمكن تطبيقه في الدول الفقيرة والغنية على حدّ سواء، بعيدًا عن الدين، والسياسة، والتبعيات المالية.
+
+الكتاب يمثل خريطة إصلاح اقتصادية–اجتماعية–إنسانية، ويوفّر نظامًا عمليًا لإعادة دمج مئات الملايين في الدورة الاقتصادية عبر المقايضة المنظمة، ويُعدّ أحد أكثر النماذج ابتكارًا في معالجة الفقر المعاصر.
+
+تأليف:
+أمين ملايشه
+Independent Interdisciplinary Researcher
+Founder – Metaphysical Light Research Institute (MLRI)
+
+— Summary of The Nations’ Barter Bank
+Book Summary
+
+“The Nations’ Barter Bank” is an original research work authored by Ameen Malaysheh, presenting the first global economic framework capable of eliminating poverty at its root by transforming time, skills, labor, and human capacity into tradeable economic value—without relying on money.
+
+The book redefines the economy as a Movement Economy, where human participation — not cash — becomes the core engine of production. It introduces a universal, non-political, non-financially dependent model that can be implemented in both developing and developed nations.
+
+This work provides a comprehensive economic, social, and humanitarian reform blueprint, offering a practical mechanism to reintegrate millions into the global economy through structured barter systems. It stands as one of the most innovative proposals for addressing modern poverty.
+
+Author:
+Ameen Malaysheh
+Independent Interdisciplinary Researcher
+Founder – Metaphysical Light Research Institute (MLRI)
+
+Unified Vision of MLRI & Prophets’ Guidance University
+
+The Metaphysical Light Research Institute (MLRI) and Prophets’ Guidance University share a foundational philosophy:
+Knowledge is not merely data, nor a certificate to be displayed — knowledge is an inner opening, a luminous awakening that occurs when the human cognitive system reaches maturity and harmony.
+
+Both institutions view the human being as a complex system of mind, heart, consciousness, and perception, rather than a functional entity requiring only technical training.
+
+1. The Human Cognitive System as the Scientific Basis
+
+According to the University's research vision, the mind is not a single organ but a multi-component system:
+
+The heart
+
+The brain
+
+The nervous system
+
+The balance system
+
+The interactive circuits binding them
+
+This system reaches high-level integration between ages 33 and 40, aligning with both:
+
+neuroscientific development,
+
+and the age at which major revelations and missions emerged throughout history.
+
+2. MLRI — The Research Engine
+
+MLRI serves as the scientific–philosophical hub that:
+
+develops new theoretical frameworks,
+
+documents metaphysical and consciousness phenomena,
+
+integrates physics, psychology, philosophy, and spirituality,
+
+and produces original models for understanding human awareness.
+
+It is the place where concepts are born, refined, and structured.
+
+3. Prophets’ Guidance University — The Educational Journey
+
+The University implements MLRI’s research through a 20-year path of light, composed of:
+
+Self-Knowledge (4 years)
+
+Higher Sciences — Physics, Astronomy, Neuroscience (4 years)
+
+Metaphysical Studies — Insight, Energy, Consciousness Levels (4 years)
+
+The Art of Istinbāṭ — Deriving knowledge internally (4 years)
+
+The Luminous Specialty — A unique field emerging from within the student (4 years)
+
+It produces luminous human beings, not certificate holders.
+
+4. Relationship Between MLRI & the University
+
+MLRI is the research foundation, producing the intellectual frameworks.
+
+The University is the implementation vessel, carrying these frameworks to students.
+
+Together, they redefine:
+
+knowledge as light,
+
+the human being as a source of wisdom,
+
+and education as a transformative journey.
+
+5. Structural Foundational Vision
+
+The shared architecture rests on three pillars:
+
+A. The Human Being
+
+The subject, beneficiary, and generator of knowledge.
+
+B. The Method
+
+A fusion of:
+
+modern science
+
+philosophy
+
+consciousness studies
+
+experiential learning
+
+inner derivation
+
+C. The Mission
+
+“To restore the human being to his primordial light, and restore knowledge to its true essence: insight, not paperwork.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### ORCID
 https://orcid.org/0009-0008-6466-1883
-- رابط DOI الرسمي:
+-
 📘 Research Links  
 • DOI: https://doi.org/10.5281/zenodo.17742510  
 • PDF: https://drive.google.com/file/d/1z7SQb3C-cObVPbWDiYr5IqQ-Xf5TbPIP/view?usp=drive_link
