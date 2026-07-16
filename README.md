@@ -1,4 +1,316 @@
-# قاعدة بيانات بحوث أمين ملايشه
+
+Ameen Khalid Ameen Malaysheh Independent Interdisciplinary Researcher Founder, Metaphysical Light Research Institute (MLRI)
+ORCID: https://orcid.org/0009-0008-6466-1883
+
+
+
+أمين خالد أمين ملايشه باحث مستقل متعدد التخصصات مؤسس معهد نور الماورائيات للبحوث (MLRI)
+ORCID: https://orcid.org/0009-0008-6466-1883
+16 يوليو 2026 الموافق 16 July 2026
+
+
+قاعدة المعرفة والبحوث – أمين خالد أمين ملايشه
+الطريق إلى الحق
+المشروع الأم: النهج الإدراكي القويم في نشأة الإنسان السليم
+
+التعريف بالمشروع
+تمثل هذه القاعدة الأرشيف الرسمي لجميع الأعمال العلمية والبحثية والفكرية التي يطوّرها الباحث المستقل أمين خالد أمين ملايشه ضمن مشروعه البحثي الشامل «النهج الإدراكي القويم في نشأة الإنسان السليم»، والذي يُعد الإطار المنهجي الذي تندرج تحته جميع المؤلفات، والنظريات، والدراسات، والنماذج الفكرية، والمبادرات البحثية والإعلامية.
+ويقوم المشروع على رؤية تعتبر أن الوصول إلى الحقيقة لا يتحقق من خلال تخصص منفرد، وإنما من خلال التكامل بين الخبرة العملية، والبحث العلمي، والتحليل المنهجي، والتأمل، والنقد، وإعادة اختبار الفرضيات بصورة مستمرة.
+ولهذا يُقدم المشروع نفسه بوصفه طريقًا للبحث عن الحق، لا ادعاءً باحتكاره، ويؤكد أن جميع ما يطرحه يمثل اجتهادات بحثية قابلة للنقد والمراجعة والتطوير.
+
+الرؤية
+يرتكز المشروع على الإيمان بأن بناء الإنسان يسبق بناء المؤسسات، وأن فهم النفس البشرية وآليات الإدراك يمثل الأساس الحقيقي لأي نهضة حضارية مستدامة.
+وينطلق من أن إعادة بناء الإنسان نفسيًا وإدراكيًا وأخلاقيًا هي الخطوة الأولى نحو إعادة بناء المجتمع والاقتصاد والحضارة.
+
+الرسالة
+يسعى المشروع إلى تطوير نماذج معرفية جديدة تساعد على:
+فهم الإنسان بصورة أكثر تكاملًا. 
+تطوير مناهج جديدة في التفكير والتحليل. 
+الربط بين العلوم الطبيعية والإنسانية. 
+إنتاج أطر نظرية قابلة للدراسة والاختبار. 
+نشر المعرفة بصورة مفتوحة للأجيال القادمة. 
+
+الفلسفة البحثية
+يرى أمين ملايشه أن البحث العلمي الحقيقي لا يقوم على جمع المعلومات فحسب، بل على:
+الخبرة العملية المتراكمة. 
+التحليل المنهجي. 
+التفكير النقدي. 
+المقارنة. 
+بناء النماذج. 
+اختبار الفرضيات. 
+مراجعة النتائج باستمرار. 
+ويؤمن أن كل نظرية تبقى قابلة للمراجعة متى ظهر دليل أقوى.
+
+المنهج العلمي
+يعتمد المشروع على التكامل بين:
+علم النفس 
+فلسفة العقل 
+الإدراك 
+الاقتصاد 
+الإدارة 
+علم الاجتماع 
+الحضارات القديمة 
+الهندسة 
+التاريخ 
+الدراسات القرآنية التأملية 
+الدراسات متعددة التخصصات 
+
+صاحب المشروع
+أمين خالد أمين ملايشه
+باحث مستقل متعدد التخصصات، ومؤلف، ومستشار في العقارات والإنشاءات والإدارة والتجارة.
+يمتلك خبرة عملية في:
+الإنشاءات 
+التطوير العقاري 
+إدارة المشاريع 
+التجارة الدولية 
+الاستيراد والتصدير 
+تقييم العقارات 
+تقييم الذهب والمعادن الثمينة 
+إدارة الأعمال 
+إلى جانب رحلة بحثية امتدت لعقود في موضوعات النفس البشرية، والإدراك، والاقتصاد، والحضارات القديمة، وبناء النماذج النظرية متعددة التخصصات.
+
+المجالات البحثية
+تشمل أعمال المشروع:
+بنية النفس البشرية 
+فلسفة العقل 
+الإدراك الإنساني 
+الوعي 
+علم النفس 
+الاقتصاد 
+النظم الاجتماعية 
+الماورائيات متعددة التخصصات 
+الحضارات القديمة 
+هندسة الأهرامات 
+منهجية البحث العلمي 
+الدراسات القرآنية التأملية 
+
+النظريات والأطر البحثية
+يتضمن المشروع عددًا من الأطر النظرية التي يعمل الباحث على تطويرها ونشرها، ومن أبرزها:
+نموذج بنية النفس البشرية وطبيعة العقل. 
+النموذج الإدراكي للتوازن النفسي والعقلي والجسدي. 
+بنك الأمم للمقايضة. 
+نظرية ملايشه لقوالب الطين في بناء الأهرامات. 
+الدراسات التأملية في القرآن الكريم. 
+نماذج في الوعي والإدراك. 
+أبحاث في النظم الاجتماعية. 
+نماذج متعددة التخصصات في فهم الإنسان. 
+
+المؤلفات
+من أبرز المؤلفات:
+سر النفس البشرية وطبيعة العقل. 
+بنك الأمم للمقايضة. 
+نظرية ملايشه لقوالب الطين في بناء الأهرامات. 
+تأملات الأمين في تدبر طيف من أسرار القرآن المبين. 
+إضافة إلى عدد من المسودات والأبحاث قيد التطوير.
+
+المنصات التابعة للمشروع
+يندرج تحت المشروع عدد من المبادرات العلمية، منها:
+أولًا
+معهد نور الماورائيات للبحوث (MLRI)
+وهو مؤسسة بحثية مستقلة تهدف إلى تطوير النماذج النظرية متعددة التخصصات، وإنتاج المعرفة، وتوثيقها، ونشرها وفق مبادئ العلم المفتوح.
+
+ثانيًا
+قناة نور الماورائيات
+المنصة الإعلامية للمشروع، وتضم:
+برنامج أنُلزمكموها. 
+برنامج إضاءة وضاءة. 
+المحاضرات. 
+الحلقات البحثية. 
+المناقشات العلمية. 
+شروحات الكتب. 
+العروض البحثية. 
+
+ثالثًا
+قاعدة المعرفة الرقمية
+وتضم:
+الكتب. 
+الأبحاث. 
+الأوراق العلمية. 
+المسودات. 
+المحاضرات. 
+التسجيلات. 
+النماذج النظرية. 
+الرسوم التوضيحية. 
+الوثائق البحثية. 
+
+منصات النشر
+يُنشر المشروع من خلال:
+ORCID 
+Open Science Framework (OSF) 
+Zenodo 
+GitHub 
+Amazon Author 
+Medium 
+LinkedIn 
+YouTube 
+Wikidata 
+
+سياسة النشر
+جميع الأبحاث تُنشر وفق منهج التوثيق المفتوح، مع الحفاظ على التسلسل الزمني للإصدارات، وإتاحة الفرصة للنقد العلمي والتطوير المستقبلي.
+
+ملاحظة منهجية
+تعكس جميع النماذج والنظريات المنشورة اجتهادات الباحث العلمية، وهي مطروحة للنقاش والاختبار العلمي، ولا تُقدَّم بوصفها حقائق نهائية، بل بوصفها أطرًا تفسيرية يسعى المشروع إلى تطويرها ومراجعتها بصورة مستمرة في ضوء الأدلة والبحث العلمي.
+
+
+
+Ameen Khalid Ameen Malaysheh Research Knowledge Base
+The Path to Truth
+The Parent Project: The Sound Cognitive Approach to the Emergence of the Sound Human Being
+
+About the Project
+This Knowledge Base serves as the official archive of the scientific, intellectual, and interdisciplinary work developed by Ameen Khalid Ameen Malaysheh under his comprehensive research project:
+The Sound Cognitive Approach to the Emergence of the Sound Human Being
+This project constitutes the overarching conceptual and methodological framework within which all of his books, research papers, theoretical models, interdisciplinary studies, intellectual initiatives, and educational projects are developed.
+The project is founded upon the conviction that the search for truth cannot be confined to a single academic discipline. Instead, genuine understanding emerges through the integration of practical experience, scientific inquiry, philosophical reflection, structured analysis, interdisciplinary synthesis, and continuous critical evaluation.
+Accordingly, the project presents itself as a path toward truth, rather than a claim to possess absolute truth. Every theory, framework, and interpretation published within this project is presented as an independent scholarly effort that remains open to scientific discussion, critical examination, refinement, and future development.
+
+Vision
+The project is built upon the belief that rebuilding the human being must precede rebuilding institutions.
+It argues that understanding human nature, cognition, consciousness, and psychological structure constitutes the essential foundation for any meaningful intellectual, scientific, economic, or civilizational renaissance.
+
+Mission
+The project seeks to develop original theoretical models and interdisciplinary frameworks that contribute to:
+Advancing scientific knowledge. 
+Improving human understanding. 
+Connecting practical experience with scientific inquiry. 
+Building new conceptual models. 
+Encouraging open scientific discussion. 
+Preserving research through open-access publication. 
+
+Research Philosophy
+Ameen Malaysheh views scientific research as far more than the collection of information.
+In his methodology, research emerges through the accumulation of:
+Practical experience. 
+Methodological scientific inquiry. 
+Critical thinking. 
+Comparative analysis. 
+Conceptual synthesis. 
+Careful observation. 
+Hypothesis development. 
+Continuous review and refinement. 
+He maintains that every human theory remains open to revision whenever stronger evidence becomes available.
+
+Research Methodology
+The project follows an interdisciplinary methodology integrating knowledge from multiple fields, including:
+Psychology 
+Philosophy of Mind 
+Human Cognition 
+Consciousness Studies 
+Economics 
+Management 
+Sociology 
+Ancient Civilizations 
+Historical Engineering 
+Qur'anic Reflective Studies 
+Interdisciplinary Research Methodology 
+
+Founder
+Ameen Khalid Ameen Malaysheh
+Independent Interdisciplinary Researcher, Author, Consultant, and Developer of Original Theoretical Models.
+His professional background includes extensive practical experience in:
+Construction Engineering 
+Real Estate 
+Project Management 
+International Trade 
+Import & Export 
+Business Administration 
+Property Valuation 
+Precious Metals Valuation 
+Commercial Consulting 
+Alongside this professional experience, he has conducted decades of independent interdisciplinary research concerning human nature, cognition, philosophy of mind, economics, ancient civilizations, and theoretical model development.
+
+Research Areas
+The project encompasses research in:
+Human Self-Structure 
+Philosophy of Mind 
+Human Cognition 
+Consciousness Studies 
+Psychology 
+Economics 
+Social Systems 
+Interdisciplinary Metaphysical Studies 
+Ancient Civilizations 
+Pyramid Construction 
+Historical Engineering 
+Research Methodology 
+Reflective Qur'anic Studies 
+
+Research Models and Theoretical Frameworks
+Among the principal conceptual frameworks developed within the project are:
+Malaysheh Model of Human Self-Structure and the Nature of the Mind. 
+Integrated Psychological–Cognitive–Physical Balance Framework. 
+The Nations' Barter Bank Framework. 
+Malaysheh Theory of Clay Molds in Pyramid Construction. 
+Reflective Qur'anic Studies. 
+Models of Consciousness and Cognition. 
+Social Systems Frameworks. 
+Original Interdisciplinary Research Models. 
+
+Publications
+Major publications include:
+The Secret of the Human Self-Structure and the Nature of the Mind 
+The Nations' Barter Bank 
+Malaysheh Theory of Clay Molds in the Construction of the Pyramids 
+Ameen's Reflections: Exploring Selected Hidden Insights of the Qur'an 
+In addition to numerous research papers, working drafts, theoretical studies, and interdisciplinary publications currently under development.
+
+Research Institutions and Initiatives
+The project includes several complementary initiatives.
+Metaphysical Light Research Institute (MLRI)
+MLRI serves as the independent research institution responsible for developing theoretical models, conducting interdisciplinary studies, producing original knowledge, and preserving research through open scientific publication.
+Its research spans psychology, cognition, philosophy, economics, social systems, metaphysical studies, ancient civilizations, and historical engineering.
+
+Metaphysical Light Research Channel
+The project's educational and media platform, featuring:
+Anulzimkumuha 
+Illuminating Insights 
+Research Lectures 
+Scientific Discussions 
+Academic Presentations 
+Book Explanations 
+Interdisciplinary Research Programs 
+
+Digital Knowledge Archive
+The project's digital repository preserves:
+Books 
+Research Papers 
+Working Drafts 
+Scientific Articles 
+Theoretical Frameworks 
+Educational Materials 
+Recorded Lectures 
+Research Documents 
+Conceptual Models 
+Visual Research Resources 
+
+Research Platforms
+Research outputs are permanently archived through internationally recognized open-science platforms, including:
+ORCID 
+Open Science Framework (OSF) 
+Zenodo 
+GitHub 
+Amazon Author Central 
+Medium 
+LinkedIn 
+YouTube 
+Wikidata 
+
+Publication Policy
+All publications follow an open-science philosophy that emphasizes:
+Permanent preservation. 
+Transparent version history. 
+Scholarly accessibility. 
+Continuous scientific discussion. 
+Ongoing refinement and development. 
+
+Methodological Statement
+All theories, conceptual models, and research frameworks presented within this project represent the independent scholarly work of the researcher.
+They are offered as scientific and intellectual contributions intended for critical examination, discussion, testing, refinement, and future development.
+The project does not present its theoretical models as immutable or final conclusions, but rather as evolving interdisciplinary research frameworks that seek to advance scientific understanding through evidence-based inquiry, methodological transparency, and open scholarly dialogue.
+
+
+
+
 
 هذه القاعدة تجمع كل البحوث الأصلية التي يقدمهاالباحث امين ملايشه في مساره "الطريق للحق".
 جميع البحوث من إنتاجه الشخصي، ولم تُقتبس من أي مصدر سابق.
