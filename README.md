@@ -1,3 +1,360 @@
+# Ameen Khalid Ameen Malaysheh
+
+**Independent Interdisciplinary Researcher, Author, Consultant, Businessman, Real Estate Developer, Developer of Theoretical Models and Frameworks, and Founder & Director of the Metaphysical Light Research Institute (MLRI)**
+
+## Biography
+
+Ameen Khalid Ameen Malaysheh is an independent researcher, author, businessman, real estate developer, and consultant whose work spans multiple fields, including anthropology, political science, religious and political philosophy, philosophy of mind, human self-structure, economics, social systems, ancient civilizations, historical engineering, and metaphysical studies. He also works on developing theoretical models, conceptual frameworks, and interdisciplinary intellectual approaches.
+
+He is a Jordanian of Palestinian origin from the city of Jenin and holds an honorary doctorate in philosophy.
+
+Ameen Khalid Ameen Malaysheh was born in Kuwait in 1983 and moved with his parents and family to Jordan following the events of the First Gulf War. During his childhood, and as a result of witnessing killing, destruction, and missiles at an age of no more than eight years, these experiences left a lasting impact on his intellectual development and contributed to shaping his political, religious, and philosophical interests and questions in later stages of his life.
+
+He grew up in a middle-income family. His father was a prominent contractor in Kuwait and Jordan. Ameen completed his schooling in Jordan and later attended university, where he studied English Literature.
+
+He began his activities in trade and business during his early years and gained practical experience in commerce, business operations, import and export, goods valuation, and precious metals valuation. He also worked in areas related to project management and evaluation, market analysis, and business development.
+
+He lived in Syria for approximately six years and frequently traveled between Jordan and Syria due to the nature of his professional activities and interests in studies and research.
+
+He worked in real estate development, with professional experience including construction project evaluation, building-system analysis, construction and materials valuation, technical project planning, real estate market analysis, property valuation, feasibility studies, and real estate investment planning.
+
+He also headed the Economic Department at the Gilad Center for Studies and Research and participated in media activities through his administrative work at Al-Ahd Newspaper.
+
+He later moved to the United States, where he continued his work in research and studies and real estate development, alongside activities involving stock trading and precious metals.
+
+Throughout his career, he participated in social, political, and diplomatic activities through various political and diplomatic channels. He also advocated for Arab issues and the Palestinian cause in international forums and conferences, with the Palestinian cause remaining one of the central issues in his activities and positions.
+
+During his career, he experienced detention, interrogation, and questioning in more than one country, including Syria, where he was detained at the Mezzeh Military Branch and interrogated at the Palestine Branch, among other incidents associated with his political and social activities.
+
+## Intellectual and Research Path
+
+Since 2016, Ameen Malaysheh has been documenting and developing his philosophical, religious, and political perspective in a more systematic manner, while continuing extensive research focused on religious and political philosophy, anthropology, human self-structure, consciousness and cognition, social and economic systems, metaphysical studies, and ancient civilizations.
+
+His work combines accumulated practical experience with research, methodological analysis, and intellectual inquiry. His approach emphasizes the interaction between real-world experience and scientific analysis, while developing models, concepts, and theoretical frameworks based on observation, analysis, cognitive synthesis, and practical experience.
+
+His research interests include:
+
+* Human self-structure and philosophy of mind
+* Consciousness and human cognition
+* Behavioral analysis
+* Anthropology
+* Religious and political philosophy
+* Social systems
+* Economic systems
+* Ancient civilizations
+* Historical engineering
+* Metaphysical studies
+* Development of interdisciplinary theoretical models and frameworks
+
+## Theoretical Models and Intellectual Frameworks
+
+Ameen Malaysheh has worked on developing several theoretical models and intellectual frameworks across his areas of research interest, including:
+
+### Human Self-Structure and the Nature of the Mind
+
+This area explores human self-structure, the nature of the mind, consciousness, human cognition, and behavior within a philosophical and interdisciplinary research framework.
+
+Related works include:
+
+* **The Secret of the Human Self and the Nature of the Mind**
+* **The Secret of the Human Self-Structure and the Nature of the Mind**
+* **Malaysheh Model of Human Self-Structure and the Nature of the Mind**
+
+### Clay Mold Theory in Pyramid Construction
+
+This area concerns the study of ancient civilizations and historical engineering and the development of a theoretical perspective concerning the use of clay molds in pyramid construction.
+
+Related work:
+
+* **Malaysheh Theory of Clay Molds in the Construction of the Pyramids**
+
+Accumulated experience in construction, engineering-project evaluation, and technical assessment, combined with research and analysis, contributed to the development of this theoretical perspective.
+
+### The Nations’ Barter Bank Framework
+
+This area focuses on economic systems, exchange models, and value-based systems, drawing upon practical experience in trade, import and export, project management, and the valuation of goods and precious metals.
+
+Related works include:
+
+* **The Nations’ Barter Bank**
+* **Framework of the Nations’ Barter Bank**
+
+The work presents a proposed framework for a modern economic exchange system based on rethinking the use of resources and the circulation of value, connecting practical experience with economic analysis and theoretical development.
+
+## Publications and Books
+
+### Arabic Works
+
+* **The Secret of the Human Self and the Nature of the Mind**
+* **The Nations’ Barter Bank**
+* **Malaysheh Theory of Clay Molds in the Construction of the Pyramids**
+
+### English Works
+
+* **The Secret of the Human Self-Structure and the Nature of the Mind**
+* **The Nations’ Barter Bank**
+* **Malaysheh Theory of Clay Molds in the Construction of the Pyramids**
+
+## Metaphysical Light Research Institute — MLRI
+
+On December 3, 2025, Ameen Malaysheh founded the **Metaphysical Light Research Institute (MLRI)** in the United States, an independent interdisciplinary research institute.
+
+The institute serves as an independent platform for research, theoretical development, interdisciplinary inquiry, and the documentation of intellectual and research work. Its areas of focus include:
+
+* Human self-structure
+* Consciousness and cognition
+* Philosophy of mind
+* Social systems
+* Economic systems
+* Metaphysical studies
+* Ancient civilizations
+* Historical engineering models
+* Development of theoretical models and frameworks
+* Integration of practical experience with scientific and philosophical research
+
+Research activities at the institute are conducted independently and are self-funded, with the objective of contributing to public knowledge, intellectual development, and the advancement of interdisciplinary understanding.
+
+MLRI also serves as a platform for developing original research initiatives and theoretical frameworks, including projects related to human cognition, social systems, economic innovation, and ancient civilizations.
+
+## Professional Experience
+
+### Construction and Real Estate
+
+* Construction and real estate consulting
+* Construction project evaluation
+* Building-system analysis
+* Construction valuation
+* Materials assessment
+* Technical project planning
+* Real estate market analysis
+* Property valuation
+* Feasibility and development studies
+* Real estate investment planning
+
+### Trade and Business
+
+* International trade
+* Import and export
+* Commercial operations
+* Market analysis
+* Goods valuation
+* Merchandise and precious metals valuation
+* Project management
+* Project evaluation
+* Business development
+
+## Media Activity
+
+He is the creator of the program **“Anulzimukumuha,”** broadcast through the **“Nour Al-Mawaraiyat”** channel on YouTube, covering subjects related to his intellectual and research interests.
+
+## Research Identity and Platforms
+
+**Full Name:** Ameen Khalid Ameen Malaysheh
+**Published Name:** Ameen Malaysheh
+**ORCID:** 0009-0008-6466-1883
+**Research Institution:** Metaphysical Light Research Institute (MLRI)
+
+His works and research identity are documented across several platforms, including:
+
+* ORCID
+* Open Science Framework (OSF)
+* Zenodo Research Archive
+* GitHub Research Archive
+* Amazon Author Central
+* Medium
+* LinkedIn
+* YouTube
+* Wikidata
+
+## Research Vision
+
+His research project is based on the view that knowledge develops through the accumulation of scientific and practical experience, ethical reflection, methodological analysis, cognitive synthesis, careful observation, and responsible conclusions.
+
+Through his work and research, he seeks to develop theoretical models and frameworks that connect practical experience with research and contribute to the study of humanity, society, economics, history, and civilization through an interdisciplinary perspective.
+
+**Knowledge • Humanity • Civilization**
+# أمين خالد أمين ملايشة
+
+**باحث مستقل متعدد التخصصات، مؤلف، مستشار، رجل أعمال، مطور عقاري، مطور نماذج وأطر نظرية، ومؤسس ومدير معهد نور الماورائيات للأبحاث (MLRI)**
+
+## السيرة الذاتية
+
+أمين خالد أمين ملايشة باحث ومؤلف ورجل أعمال ومطور عقاري ومستشار، يعمل في مجالات متعددة تشمل علم الإنسان، والعلوم السياسية، والفلسفة الدينية والسياسية، وفلسفة العقل، وبنية الذات الإنسانية، والاقتصاد، والأنظمة الاجتماعية، والحضارات القديمة، والهندسة التاريخية، والدراسات الماورائية. كما يعمل على تطوير نماذج وأطر نظرية ومفاهيم فكرية متعددة التخصصات.
+
+وهو أردني من أصل فلسطيني من مدينة جنين، وحاصل على شهادة دكتوراه فخرية في الفلسفة.
+
+ولد أمين خالد أمين ملايشة في دولة الكويت عام 1983، وانتقل مع والديه وعائلته إلى الأردن إثر أحداث حرب الخليج الأولى. وفي سنوات طفولته، وبسبب ما شاهده من القتل والدمار والصواريخ في سن لا يتجاوز الثامنة، تركت تلك التجارب أثرًا في تكوينه الفكري، وأسهمت في تشكيل اهتماماته وتساؤلاته السياسية والدينية والفلسفية في مراحل لاحقة من حياته.
+
+نشأ في كنف عائلة ذات دخل متوسط، وكان والده من المقاولين البارزين في الكويت والأردن. تلقى تعليمه المدرسي في الأردن، ثم التحق بالجامعة ودرس تخصص الأدب الإنجليزي.
+
+بدأ نشاطه في مجال التجارة والأعمال في سنوات شبابه، واكتسب خبرة عملية في التجارة والعمليات التجارية والاستيراد والتصدير وتقييم السلع والمعادن النفيسة. كما عمل في مجالات مرتبطة بإدارة المشاريع وتقييمها وتحليل الأسواق وتطوير الأعمال.
+
+عاش في سوريا ما يقارب ست سنوات، وكان يتنقل بين الأردن وسوريا بحكم طبيعة أعماله واهتماماته في الدراسات والأبحاث.
+
+عمل في مجال التطوير العقاري، واشتملت خبرته المهنية على تقييم المشاريع الإنشائية، وتحليل أنظمة البناء، وتقييم الإنشاءات والمواد، والتخطيط الفني للمشاريع، وتحليل أسواق العقارات، وتقييم الممتلكات، ودراسات الجدوى والتخطيط للاستثمار العقاري.
+
+كما ترأس الدائرة الاقتصادية في مركز جلعاد للدراسات والأبحاث، ومارس النشاط الإعلامي من خلال عمله الإداري في صحيفة العهد الإعلامي.
+
+انتقل لاحقًا للعيش في الولايات المتحدة الأمريكية، حيث واصل نشاطه في الدراسات والأبحاث والتطوير العقاري، إلى جانب تداول الأسهم والمعادن النفيسة، واستمر في تطوير اهتماماته البحثية والفكرية متعددة التخصصات.
+
+وخلال مسيرته، شارك في العمل الاجتماعي والسياسي والدبلوماسي عبر قنوات سياسية ودبلوماسية متعددة، كما دافع عن القضايا العربية والقضية الفلسطينية في عدد من المحافل والندوات العالمية والدولية، وكانت القضية الفلسطينية من القضايا المحورية في نشاطه ومواقفه.
+
+وتعرض خلال مسيرته للتوقيف والاستجواب والتحقيق القسري في أكثر من بلد، ومن بينها سوريا، حيث تعرض للتوقيف لدى فرع المزة العسكري واستُجوب في فرع فلسطين، وغيرها من الوقائع المرتبطة بمسيرته ونشاطه السياسي والاجتماعي.
+
+## المسار الفكري والبحثي
+
+منذ عام 2016، بدأ أمين ملايشة بتدوين وتثبيت نظرته الفلسفية والدينية والسياسية بصورة أكثر منهجية، مع الاستمرار في إجراء بحوث موسعة ركز خلالها على الفلسفة الدينية والسياسية، وعلم الإنسان، وبنية الذات الإنسانية، والإدراك والوعي، والأنظمة الاجتماعية والاقتصادية، والدراسات الماورائية والحضارات القديمة.
+
+تجمع أعماله بين الخبرة العملية المتراكمة والبحث العلمي والتحليل المنهجي والاستقصاء الفكري، وينطلق في منهجه من أهمية التفاعل بين الخبرة الواقعية والتحليل العلمي، مع تطوير نماذج ومفاهيم وأطر نظرية تستند إلى الملاحظة والتحليل والتركيب المعرفي والخبرة العملية.
+
+ومن بين المجالات التي يركز عليها في أبحاثه:
+
+* بنية الذات الإنسانية وفلسفة العقل.
+* دراسات الوعي والإدراك البشري.
+* التحليل السلوكي.
+* علم الإنسان.
+* الفلسفة الدينية والسياسية.
+* الأنظمة الاجتماعية.
+* الأنظمة الاقتصادية.
+* الحضارات القديمة.
+* الهندسة التاريخية.
+* الدراسات الماورائية.
+* تطوير النماذج والأطر النظرية متعددة التخصصات.
+
+## النماذج والأطر الفكرية
+
+عمل أمين ملايشة على تطوير عدد من النماذج والأطر النظرية في مجالات اهتمامه البحثي، ومن أبرزها:
+
+### نموذج بنية الذات الإنسانية وطبيعة العقل
+
+يتناول هذا المجال بنية الذات الإنسانية، وطبيعة العقل، والوعي، والإدراك البشري، والسلوك، ضمن إطار فلسفي وبحثي متعدد التخصصات.
+
+ومن الأعمال المرتبطة به:
+
+* **The Secret of the Human Self and the Nature of the Mind**
+* **The Secret of the Human Self-Structure and the Nature of the Mind**
+* **Malaysheh Model of Human Self-Structure and the Nature of the Mind**
+
+### نظرية القوالب الطينية في بناء الأهرامات
+
+يرتبط هذا المجال بدراسة الحضارات القديمة والهندسة التاريخية، وتطوير تصور حول استخدام القوالب الطينية في بناء الأهرامات.
+
+ومن الأعمال المرتبطة به:
+
+* **Malaysheh Theory of Clay Molds in the Construction of the Pyramids**
+
+وقد ساهمت الخبرة المتراكمة في مجال الإنشاءات وتقييم المشاريع الهندسية والفنية، إلى جانب البحث والتحليل، في تطوير هذا التصور النظري.
+
+### إطار بنك مقايضة الأمم
+
+يتركز هذا المجال على الأنظمة الاقتصادية ونماذج التبادل والقيمة، مع الاستفادة من الخبرة العملية في التجارة والاستيراد والتصدير وإدارة المشاريع وتقييم السلع والمعادن النفيسة.
+
+ومن أبرز الأعمال المرتبطة به:
+
+* **The Nations’ Barter Bank**
+* **Framework of the Nations’ Barter Bank**
+
+ويقدم العمل إطارًا مقترحًا لنظام تبادل اقتصادي حديث يقوم على إعادة تصور استخدام الموارد وتداول القيمة، مع ربط الخبرة العملية بالتحليل الاقتصادي والتطوير النظري.
+
+## المؤلفات والكتب
+
+### الأعمال باللغة العربية
+
+* **سر الذات الإنسانية وماهية العقل**
+* **بنك مقايضة الأمم**
+* **نظرية ملايشة للقوالب الطينية في بناء الأهرامات**
+
+### الأعمال باللغة الإنجليزية
+
+* **The Secret of the Human Self-Structure and the Nature of the Mind**
+* **The Nations’ Barter Bank**
+* **Malaysheh Theory of Clay Molds in the Construction of the Pyramids**
+
+## معهد نور الماورائيات للأبحاث — MLRI
+
+في 3 ديسمبر 2025، أسس أمين ملايشة في الولايات المتحدة **Metaphysical Light Research Institute (MLRI)**، وهو معهد بحثي مستقل متعدد التخصصات.
+
+يعمل المعهد كمنصة مستقلة للبحث والتطوير النظري والبحث البيني وتوثيق الأعمال الفكرية والبحثية، ويركز على تطوير الدراسات النظرية والبحوث متعددة التخصصات في مجالات تشمل:
+
+* بنية الذات الإنسانية.
+* الوعي والإدراك.
+* فلسفة العقل.
+* الأنظمة الاجتماعية.
+* الأنظمة الاقتصادية.
+* الدراسات الماورائية.
+* الحضارات القديمة.
+* النماذج الهندسية التاريخية.
+* تطوير النماذج والأطر النظرية.
+* دمج الخبرة العملية مع البحث العلمي والفلسفي.
+
+وتُجرى الأنشطة البحثية في المعهد بصورة مستقلة وبتمويل ذاتي، بهدف المساهمة في المعرفة العامة والتطوير الفكري وتعزيز البحث متعدد التخصصات.
+
+ويعمل MLRI كذلك كمنصة لتطوير المبادرات البحثية والأطر النظرية الأصلية، بما في ذلك المشاريع المرتبطة بالإدراك البشري والأنظمة الاجتماعية والابتكار الاقتصادي والحضارات القديمة.
+
+## الخبرة المهنية
+
+تشمل مجالات الخبرة المهنية:
+
+### الإنشاءات والتطوير العقاري
+
+* الاستشارات في الإنشاءات والتطوير العقاري.
+* تقييم المشاريع الإنشائية.
+* تحليل أنظمة البناء.
+* تقييم الإنشاءات.
+* تقييم المواد.
+* التخطيط الفني للمشاريع.
+* تحليل أسواق العقارات.
+* تقييم الممتلكات.
+* دراسات الجدوى والتطوير.
+* التخطيط للاستثمار العقاري.
+
+### التجارة والأعمال
+
+* التجارة الدولية.
+* الاستيراد والتصدير.
+* العمليات التجارية.
+* تحليل الأسواق.
+* تقييم السلع.
+* تقييم البضائع والمعادن النفيسة.
+* إدارة المشاريع.
+* تقييم المشاريع.
+* تطوير الأعمال.
+
+## النشاط الإعلامي
+
+له برنامج **«أنلزمكموها»**، ويُبث عبر قناة **«نور الماورائيات»** على موقع YouTube، ويتناول موضوعات مرتبطة باهتماماته الفكرية والبحثية.
+
+## الهوية البحثية والمنصات
+
+**الاسم الكامل:** أمين خالد أمين ملايشة
+**الاسم المنشور:** Ameen Malaysheh
+**ORCID:** 0009-0008-6466-1883
+**المؤسسة البحثية:** Metaphysical Light Research Institute (MLRI)
+
+وتُوثق أعماله وهويته البحثية عبر عدد من المنصات، من بينها:
+
+* ORCID
+* Open Science Framework (OSF)
+* Zenodo Research Archive
+* GitHub Research Archive
+* Amazon Author Central
+* Medium
+* LinkedIn
+* YouTube
+* Wikidata
+
+## الرؤية البحثية
+
+ينطلق مشروعه البحثي من تصور يرى أن المعرفة تتطور من خلال تراكم الخبرة العلمية والعملية، والتأمل الأخلاقي، والتحليل المنهجي، والتركيب المعرفي، والملاحظة الدقيقة، والوصول إلى استنتاجات مسؤولة.
+
+ويهدف من خلال أعماله وأبحاثه إلى تطوير نماذج وأطر نظرية تربط بين الخبرة العملية والبحث، وتساهم في دراسة الإنسان والمجتمع والاقتصاد والتاريخ والحضارة ضمن منظور متعدد التخصصات.
+
+**المعرفة • الإنسان • الحضارة**
+
+
+
+
+
 
 Ameen Khalid Ameen Malaysheh Independent Interdisciplinary Researcher Founder, Metaphysical Light Research Institute (MLRI)
 ORCID: https://orcid.org/0009-0008-6466-1883
