@@ -88,7 +88,101 @@ li{margin:6px 0}
 @media(max-width:700px){.mlri-modal{padding:10px 5px}.mlri-modal-box{padding:20px 14px}.mlri-form{grid-template-columns:1fr}.mlri-field.full{grid-column:auto}.mlri-member-btn{font-size:12px}}
 @media print{body *{visibility:hidden!important}.mlri-modal,.mlri-modal *{visibility:visible!important}.mlri-modal{position:static;display:block!important;background:white;padding:0;color:#000}.mlri-modal-box{width:100%;box-shadow:none;border:0;background:white;color:#000}.mlri-close,.mlri-actions,.mlri-check{display:none!important}.mlri-protocol{max-height:none;overflow:visible;border:0}.mlri-stage{display:block!important}.mlri-field input,.mlri-field textarea{color:#000;background:#fff;border:1px solid #555}}
 </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
 
+    {
+      "@type": "Organization",
+      "@id": "https://mlri.net/#organization",
+      "name": "Metaphysical Light Research Institute",
+      "alternateName": "MLRI",
+      "url": "https://mlri.net/",
+      "description": "An independent interdisciplinary research institute founded by Ameen Malaysheh.",
+      "founder": {
+        "@id": "https://mlri.net/#person"
+      },
+      "sameAs": [
+        "https://doi.org/10.17605/OSF.IO/WY6AU",
+        "https://orcid.org/0009-0008-6466-1883",
+        "https://osf.io/4gp7x/",
+        "https://zenodo.org/",
+        "https://www.youtube.com/@ameenmalaysheh",
+        "https://medium.com/@ameenmalaysheh"
+      ]
+    },
+
+    {
+      "@type": "Person",
+      "@id": "https://mlri.net/#person",
+      "name": "Ameen Malaysheh",
+      "alternateName": [
+        "Ameen Khalid Ameen Malaysheh",
+        "Ameen Khalid Malaysheh",
+        "أمين ملايشه"
+      ],
+      "url": "https://ameenmalaysheh.github.io/",
+      "jobTitle": [
+        "Founder & Director",
+        "Independent Interdisciplinary Researcher",
+        "Author",
+        "Consultant"
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0008-6466-1883"
+      },
+      "worksFor": {
+        "@id": "https://mlri.net/#organization"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0008-6466-1883",
+        "https://osf.io/4gp7x/",
+        "https://medium.com/@ameenmalaysheh",
+        "https://www.youtube.com/@ameenmalaysheh"
+      ]
+    },
+
+    {
+      "@type": "WebSite",
+      "@id": "https://mlri.net/#website",
+      "url": "https://mlri.net/",
+      "name": "Metaphysical Light Research Institute",
+      "alternateName": "MLRI",
+      "publisher": {
+        "@id": "https://mlri.net/#organization"
+      },
+      "about": {
+        "@id": "https://mlri.net/#organization"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://mlri.net/#webpage",
+      "url": "https://mlri.net/",
+      "name": "Ameen Malaysheh | Metaphysical Light Research Institute",
+      "isPartOf": {
+        "@id": "https://mlri.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://mlri.net/#organization"
+        },
+        {
+          "@id": "https://mlri.net/#person"
+        }
+      ],
+      "mainEntity": {
+        "@id": "https://mlri.net/#organization"
+      }
+    }
+
+  ]
+}
+</script>
 </head>
 <body>
 
