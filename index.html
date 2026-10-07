@@ -61,7 +61,137 @@ li{margin:6px 0}
 .card ol,.card ul{padding-left:22px}
 .card li{margin:6px 0}
 </style>
+/* MLRI — Official International Legal Notice */
+.mlri-legal-banner{
+  width:min(1080px,90%);
+  margin:0 auto 8px;
+}
 
+.mlri-legal-banner__link{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  width:100%;
+  box-sizing:border-box;
+  padding:20px 24px;
+
+  color:var(--cream);
+  text-decoration:none;
+
+  background:linear-gradient(
+    145deg,
+    rgba(8,70,50,.94),
+    rgba(4,43,31,.96)
+  );
+
+  border:1px solid var(--gold);
+  border-radius:16px;
+
+  box-shadow:
+    0 8px 28px rgba(0,0,0,.20),
+    inset 0 0 0 1px rgba(229,199,122,.08);
+
+  transition:
+    transform .2s ease,
+    background .2s ease,
+    box-shadow .2s ease;
+}
+
+.mlri-legal-banner__link:hover{
+  text-decoration:none;
+  transform:translateY(-2px);
+
+  background:linear-gradient(
+    145deg,
+    rgba(10,82,58,.98),
+    rgba(4,48,35,.98)
+  );
+
+  box-shadow:
+    0 12px 34px rgba(0,0,0,.28),
+    inset 0 0 0 1px rgba(229,199,122,.14);
+}
+
+.mlri-legal-banner__icon{
+  flex:0 0 auto;
+  color:var(--gold);
+  font-size:30px;
+  line-height:1;
+}
+
+.mlri-legal-banner__content{
+  display:flex;
+  flex-direction:column;
+  gap:3px;
+  min-width:0;
+}
+
+.mlri-legal-banner__content strong{
+  color:var(--gold);
+  font:700 17px/1.3 Arial,"Segoe UI",sans-serif;
+  letter-spacing:.08em;
+}
+
+.mlri-legal-banner__subtitle{
+  font:14px/1.5 Arial,"Segoe UI",sans-serif;
+  color:var(--cream);
+}
+
+.mlri-legal-banner__meta{
+  font:12px/1.5 Arial,"Segoe UI",sans-serif;
+  color:var(--muted);
+}
+
+.mlri-legal-banner__button{
+  margin-left:auto;
+  flex:0 0 auto;
+
+  padding:9px 15px;
+
+  border:1px solid var(--gold);
+  border-radius:999px;
+
+  color:var(--gold);
+  font:700 12px/1 Arial,"Segoe UI",sans-serif;
+  white-space:nowrap;
+}
+
+.mlri-legal-banner__link:hover .mlri-legal-banner__button{
+  background:var(--gold);
+  color:var(--bg);
+}
+
+@media(max-width:700px){
+  .mlri-legal-banner{
+    width:min(94%,1080px);
+  }
+
+  .mlri-legal-banner__link{
+    padding:17px 16px;
+    gap:12px;
+  }
+
+  .mlri-legal-banner__icon{
+    font-size:25px;
+  }
+
+  .mlri-legal-banner__content strong{
+    font-size:14px;
+    letter-spacing:.05em;
+  }
+
+  .mlri-legal-banner__subtitle{
+    font-size:12px;
+  }
+
+  .mlri-legal-banner__meta{
+    font-size:10px;
+  }
+
+  .mlri-legal-banner__button{
+    display:none;
+  }
+}
 <style>
 .medium-list{columns:2;column-gap:2.5rem;padding-left:1.2rem}
 .medium-list li{break-inside:avoid;margin:.55rem 0}
@@ -256,7 +386,37 @@ li{margin:6px 0}
 </a>
   <div class="divider"></div>
 </header>
+<!-- MLRI — Official International Legal Notice -->
+<section class="mlri-legal-banner" aria-label="MLRI International Legal Notice">
+  <a
+    href="https://doi.org/10.5281/zenodo.23217683"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="mlri-legal-banner__link"
+    title="Official MLRI International Legal Notice — DOI 10.5281/zenodo.23217683"
+  >
+    <span class="mlri-legal-banner__icon" aria-hidden="true">⚖</span>
 
+    <span class="mlri-legal-banner__content">
+      <strong>INTERNATIONAL LEGAL NOTICE</strong>
+
+      <span class="mlri-legal-banner__subtitle">
+        Protection of MLRI Intellectual Property, Knowledge Assets,
+        Research &amp; Creative Works
+      </span>
+
+      <span class="mlri-legal-banner__meta">
+        Officially Issued by MLRI
+        &nbsp;•&nbsp;
+        DOI: 10.5281/zenodo.23217683
+      </span>
+    </span>
+
+    <span class="mlri-legal-banner__button">
+      VIEW OFFICIAL LEGAL NOTICE ↗
+    </span>
+  </a>
+</section>
 <main class="container">
 
 <section id="about" class="card en-section">
