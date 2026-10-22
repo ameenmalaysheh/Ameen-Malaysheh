@@ -1,4 +1,4 @@
-Ameen Khalid Ameen Malaysheh
+Ameen Khalid Ameen Malaysheh 
 Ameen Malaysheh — Independent Interdisciplinary Researcher, Author, Consultant, Businessman, Real Estate Developer, Developer of Theoretical Models and Frameworks, and Founder & Director of the Metaphysical Light Research Institute (MLRI).
 أمين خالد أمين ملايشه — باحث مستقل متعدد التخصصات، مؤلف، مستشار، رجل أعمال، مطور عقاري، مطور نماذج وأطر نظرية، ومؤسس ومدير معهد نور الماورائيات للأبحاث (MLRI).
 Research identity: Ameen Malaysheh · ORCID: 0009-0008-6466-1883
