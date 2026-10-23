@@ -20,6 +20,22 @@ a:hover{text-decoration:underline}
 .top{position:sticky;top:0;z-index:20;background:rgba(3,31,22,.96);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .nav{width:min(1160px,92%);margin:auto;display:flex;justify-content:center;gap:26px;flex-wrap:wrap;padding:14px 0;font-family:Arial,sans-serif;font-size:13px;font-weight:700}
 .nav a{padding:5px 2px}
+  .mlri-journal-nav {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 13px !important;
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  color: var(--gold) !important;
+  font-weight: 700;
+  transition: background .2s ease, color .2s ease;
+}
+.mlri-journal-nav:hover {
+  background: var(--gold);
+  color: var(--bg) !important;
+  text-decoration: none;
+}
 .hero{width:min(1160px,92%);margin:0 auto;padding:50px 20px 38px;text-align:center}
 .logo-wrap{width:205px;margin:0 auto 12px;color:var(--gold)}
 .lighthouse{width:100%;height:auto;filter:drop-shadow(0 4px 12px rgba(0,0,0,.25))}
@@ -335,6 +351,9 @@ li{margin:6px 0}
     <a href="#research">Research</a>
     <a href="#models">Models</a>
     <a href="#publications">Publications</a>
+    
+<a href="/journal/" class="mlri-journal-nav">MLRI Journal</a>
+
     <a href="#projects">Projects</a>
     <a href="#zenodo-works">Zenodo Archive</a>
     <a href="#medium-archive">Medium</a>
@@ -416,6 +435,40 @@ li{margin:6px 0}
     </span>
   </a>
 </section>
+  
+<!-- MLRI Journal Homepage Button -->
+<section style="width:min(1080px,90%);margin:18px auto 28px;
+padding:27px 30px;display:flex;align-items:center;
+justify-content:space-between;gap:22px;flex-wrap:wrap;
+background:linear-gradient(145deg,#084632,#031f16);
+border:1px solid var(--gold);border-radius:18px;
+box-shadow:0 12px 30px rgba(0,0,0,.18);">
+
+  <div>
+    <p style="color:var(--gold);font:700 11px Arial,sans-serif;
+    letter-spacing:2px;margin-bottom:8px;">
+      MLRI · ACADEMIC PUBLISHING
+    </p>
+
+    <h2 style="border:0;padding:0;margin:0 0 8px;">
+      MLRI Journal for Interdisciplinary Research
+    </h2>
+
+    <p style="margin:0;font:14px/1.8 Arial,sans-serif;">
+      Explore interdisciplinary research and journal issues.
+    </p>
+  </div>
+
+  <a href="/journal/"
+     style="display:inline-block;padding:12px 20px;
+     border-radius:999px;border:1px solid var(--gold);
+     background:var(--gold);color:var(--bg);
+     font:700 13px Arial,sans-serif;">
+    EXPLORE THE JOURNAL ↗
+  </a>
+
+</section>
+
 <main class="container">
 
 <section id="institutional-identity" class="card en-section">
