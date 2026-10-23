@@ -6,274 +6,539 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Ameen Khalid Ameen Malaysheh">
 <meta name="description" content="MLRI Journal for Interdisciplinary Research">
+<meta name="theme-color" content="#21113b">
 <title>MLRI Journal for Interdisciplinary Research</title>
 
 <style>
 :root {
-  --bg:#062d20;
-  --bg2:#031f16;
-  --panel:#084632;
-  --gold:#e5c77a;
-  --cream:#f4eedc;
-  --muted:#c9d2c7;
-  --line:rgba(229,199,122,.38);
+  --bg:#160c29;
+  --bg2:#24143d;
+  --panel:#2c1b47;
+  --panel2:#352151;
+  --gold:#e8cb88;
+  --cream:#f8f1ff;
+  --muted:#d0c3df;
+  --line:rgba(232,203,136,.35);
+  --purple:#a88ad7;
 }
 * { box-sizing:border-box; }
+
 html { scroll-behavior:smooth; }
+
 body {
   margin:0;
-  background:linear-gradient(145deg,var(--bg),var(--bg2));
   color:var(--cream);
-  font-family:Arial,sans-serif;
-  line-height:1.7;
+  background:
+    radial-gradient(ellipse at top, #382052 0%, transparent 55%),
+    linear-gradient(145deg,var(--bg),var(--bg2),var(--bg));
+  font-family:Arial,Helvetica,sans-serif;
+  line-height:1.8;
 }
+
 a { color:var(--gold); text-decoration:none; }
-header {
-  text-align:center;
-  padding:42px 20px 30px;
+a:hover { text-decoration:underline; }
+
+button { font:inherit; }
+
+.topbar {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:14px;
+  flex-wrap:wrap;
+  padding:15px max(4%,calc((100% - 1100px)/2));
   border-bottom:1px solid var(--line);
+  background:rgba(22,12,41,.82);
 }
+
 .brand {
   color:var(--gold);
   font-size:12px;
-  letter-spacing:3px;
-  font-weight:bold;
+  font-weight:700;
+  letter-spacing:2px;
 }
-h1 {
-  font-family:Georgia,serif;
-  font-size:clamp(28px,5vw,46px);
-  line-height:1.2;
-  margin:16px auto;
-  max-width:900px;
+
+.top-actions {
+  display:flex;
+  gap:10px;
+  align-items:center;
 }
-.subtitle {
-  color:var(--muted);
-  max-width:700px;
-  margin:0 auto 22px;
-}
-button,.home-link {
+
+.pill {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:9px 16px;
   border:1px solid var(--gold);
   border-radius:999px;
-  padding:10px 17px;
-  font-weight:bold;
-  cursor:pointer;
-  display:inline-block;
-  font-size:13px;
-}
-button {
-  color:var(--bg);
-  background:var(--gold);
-}
-.home-link {
   color:var(--gold);
-  margin:5px;
-}
-main {
-  width:min(1050px,92%);
-  margin:35px auto 60px;
-}
-.intro,.issue,.paper {
-  background:rgba(8,70,50,.65);
-  border:1px solid var(--line);
-  border-radius:15px;
-  padding:22px;
-  margin-bottom:22px;
-}
-h2,h3 { color:var(--gold); }
-h2 { margin-top:0; }
-.issues {
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-  gap:16px;
-}
-.issue { margin:0; }
-.issue-label {
-  color:var(--gold);
+  background:transparent;
   font-size:12px;
   font-weight:bold;
-  letter-spacing:1px;
+  cursor:pointer;
 }
-.paper {
-  background:rgba(3,31,22,.55);
-  margin:15px 0 0;
-  padding:18px;
+
+.pill.primary {
+  background:var(--gold);
+  color:var(--bg);
 }
-.paper h3 { margin-top:5px; }
-.paper p { color:var(--muted); }
-.author {
-  font-size:13px;
-  color:var(--muted);
-}
-footer {
+
+.hero {
   text-align:center;
-  padding:25px 15px;
-  border-top:1px solid var(--line);
+  padding:66px 20px 54px;
+  border-bottom:1px solid var(--line);
+}
+
+.eyebrow {
+  color:var(--gold);
+  font-size:11px;
+  font-weight:bold;
+  letter-spacing:3px;
+}
+
+.hero h1 {
+  max-width:950px;
+  margin:20px auto;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(30px,5vw,54px);
+  line-height:1.2;
+}
+
+.hero p {
+  max-width:720px;
+  margin:0 auto 25px;
+  color:var(--muted);
+}
+
+.hero-actions {
+  display:flex;
+  justify-content:center;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:25px;
+}
+
+main {
+  width:min(1100px,92%);
+  margin:36px auto 65px;
+}
+
+.panel {
+  padding:26px;
+  margin-bottom:32px;
+  border:1px solid var(--line);
+  border-radius:18px;
+  background:linear-gradient(145deg,rgba(53,33,81,.94),rgba(36,20,61,.94));
+  box-shadow:0 15px 40px rgba(0,0,0,.14);
+}
+
+h2,h3 { color:var(--gold); }
+
+.panel h2,.section-heading {
+  margin-top:0;
+  font-family:Georgia,"Times New Roman",serif;
+}
+
+.section-heading {
+  margin:40px 0 18px;
+  font-size:clamp(24px,3vw,32px);
+}
+
+.muted { color:var(--muted); }
+
+.issues {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:22px;
+  align-items:start;
+}
+
+.issue {
+  min-width:0;
+  padding:23px;
+  border:1px solid var(--line);
+  border-radius:17px;
+  background:linear-gradient(160deg,var(--panel2),var(--panel));
+}
+
+.issue-number {
+  color:var(--gold);
+  font-size:11px;
+  font-weight:bold;
+  letter-spacing:1.4px;
+}
+
+.issue h2 {
+  margin:10px 0;
+  font-size:25px;
+  line-height:1.4;
+}
+
+.issue-period {
   color:var(--muted);
   font-size:13px;
 }
+
+.issue-description {
+  color:var(--muted);
+  padding-bottom:13px;
+  border-bottom:1px solid var(--line);
+}
+
+.paper {
+  margin-top:15px;
+  padding:17px;
+  border:1px solid rgba(232,203,136,.25);
+  border-radius:12px;
+  background:rgba(22,12,41,.45);
+  overflow-wrap:anywhere;
+}
+
+.paper h3 {
+  margin:0 0 12px;
+  font-size:17px;
+  line-height:1.55;
+}
+
+.paper p { margin:7px 0; }
+
+.paper-title-ar {
+  color:var(--cream);
+  font-size:14px;
+}
+
+.paper-title-en {
+  color:var(--muted);
+  font-size:14px;
+}
+
+.author {
+  color:var(--gold);
+  font-size:12px;
+  margin-top:12px !important;
+}
+
+.note {
+  padding:15px 18px;
+  border-inline-start:3px solid var(--gold);
+  background:rgba(22,12,41,.4);
+  color:var(--muted);
+  font-size:13px;
+}
+
+footer {
+  padding:30px 20px;
+  border-top:1px solid var(--line);
+  text-align:center;
+  color:var(--muted);
+  font-size:12px;
+}
+
 [hidden] { display:none !important; }
+
+@media(max-width:760px) {
+  .issues { grid-template-columns:1fr; }
+  .hero { padding:45px 18px; }
+  .panel { padding:20px; }
+  .issue { padding:18px; }
+  .topbar { justify-content:center; }
+  .brand { text-align:center; }
+}
+
+@media print {
+  body { background:white; color:#222; }
+  .topbar,.hero-actions { display:none; }
+  .panel,.issue,.paper { background:white; color:#222; box-shadow:none; }
+  h2,h3,.brand,.issue-number { color:#49336b; }
+}
 </style>
 </head>
 
 <body>
 
-<header>
-  <div class="brand">METAPHYSICAL LIGHT RESEARCH INSTITUTE · MLRI</div>
-  <h1>MLRI Journal for Interdisciplinary Research</h1>
-  <p class="subtitle">
-    An interdisciplinary research publication of the
-    Metaphysical Light Research Institute.
+<div class="topbar">
+  <div class="brand">MLRI · ACADEMIC PUBLISHING</div>
+  <div class="top-actions">
+    <a class="pill" href="https://mlri.net/" data-i18n="home">Institute Homepage ↗</a>
+    <button class="pill primary" id="languageButton" type="button"
+      onclick="toggleLanguage()">العربية</button>
+  </div>
+</div>
+
+<header class="hero">
+  <div class="eyebrow">METAPHYSICAL LIGHT RESEARCH INSTITUTE</div>
+  <h1 data-i18n="journalTitle">MLRI Journal for Interdisciplinary Research</h1>
+  <p data-i18n="tagline">
+    An interdisciplinary research journal exploring ideas across human
+    sciences, consciousness, archaeology, engineering, and economics.
   </p>
-  <a class="home-link" href="/">INSTITUTE HOMEPAGE ↗</a>
-  <button id="languageButton" type="button" onclick="toggleLanguage()">
-    العربية
-  </button>
+  <div class="hero-actions">
+    <a class="pill primary" href="#issues" data-i18n="browseIssues">Browse Journal Issues ↓</a>
+    <a class="pill" href="https://mlri.net/" data-i18n="visitInstitute">Visit MLRI</a>
+  </div>
 </header>
 
 <main>
-  <section class="intro">
-    <div id="englishIntro">
-      <h2>About the Journal</h2>
-      <p>
-        The MLRI Journal for Interdisciplinary Research presents research
-        and theoretical frameworks across human sciences, consciousness,
-        archaeology, engineering, economics, and interdisciplinary studies.
-      </p>
-      <p>
-        The journal provides an organized archive of research associated
-        with the intellectual and research vision of MLRI.
-      </p>
-    </div>
 
-    <div id="arabicIntro" dir="rtl" lang="ar" hidden>
-      <h2>عن المجلة</h2>
-      <p>
-        تعرض مجلة معهد نور الماورائيات للبحوث متعددة التخصصات
-        أبحاثًا وأطرًا نظرية في العلوم الإنسانية والوعي والآثار
-        والهندسة والاقتصاد والدراسات متعددة التخصصات.
-      </p>
-      <p>
-        توفر المجلة أرشيفًا منظمًا للأبحاث المرتبطة بالرؤية الفكرية
-        والبحثية لمعهد نور الماورائيات للبحوث.
-      </p>
-    </div>
-  </section>
-
-  <h2 id="issuesHeading">Journal Issues</h2>
-
-  <div class="issues">
-
-    <section class="issue">
-      <div class="issue-label">ISSUE 01 · 2025</div>
-      <h2>Foundational Research</h2>
-      <p>Research archive · December 2025</p>
-
-      <article class="paper">
-        <h3>1. Malaysheh Theory on the Nature of the Human Inner Self and the Mind System</h3>
-        <p>
-          An Analytical Study of Essence, Consciousness, and Cognitive Mechanisms.
-        </p>
-        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
-      </article>
-
-      <article class="paper">
-        <h3>2. The Nations' Barter Bank</h3>
-        <p>
-          A Comprehensive Global Economic Vision for the Eradication
-          of Poverty and Restructuring Decentralized Value and Commodity Exchange.
-        </p>
-        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
-      </article>
-
-      <article class="paper">
-        <h3>3. The Clay-Mold Theory of Pyramid Construction</h3>
-        <p>
-          A New Archaeological and Engineering Framework Explaining
-          Ancient Stone Architecture.
-        </p>
-        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
-      </article>
-
-      <article class="paper">
-        <h3>4. Vision of Prophets' Guidance University for Human and Cosmic Sciences</h3>
-        <p>
-          Epistemological Founding, Academic Framework, and Global Mission
-          (Vision 1).
-        </p>
-        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
-      </article>
-    </section>
-
-    <section class="issue">
-      <div class="issue-label">ISSUE 02 · APRIL–JUNE</div>
-      <h2>Second Quarterly Issue</h2>
-      <p>Reserved for research assigned to this issue.</p>
-    </section>
-
-    <section class="issue">
-      <div class="issue-label">ISSUE 03 · JULY–SEPTEMBER</div>
-      <h2>Third Quarterly Issue</h2>
-      <p>Reserved for research assigned to this issue.</p>
-    </section>
-
-    <section class="issue">
-      <div class="issue-label">ISSUE 04 · OCTOBER–DECEMBER</div>
-      <h2>Fourth Quarterly Issue</h2>
-      <p>Reserved for research assigned to this issue.</p>
-    </section>
-
-  </div>
-
-  <section class="intro" style="margin-top:25px">
-    <h2>Publication Information</h2>
-    <p>
-      <strong>Publisher:</strong>
-      Metaphysical Light Research Institute (MLRI)
+  <section class="panel">
+    <h2 data-i18n="aboutTitle">About the Journal</h2>
+    <p data-i18n="aboutText">
+      The MLRI Journal for Interdisciplinary Research provides an organized
+      archive of research associated with the intellectual and research
+      vision of the Metaphysical Light Research Institute.
     </p>
-    <p>
-      <strong>Founder and Author:</strong>
-      Ameen Khalid Ameen Malaysheh
-    </p>
-    <p>
-      <strong>Publication frequency:</strong> Quarterly
-    </p>
-    <p>
-      <strong>Official website:</strong>
-      <a href="https://mlri.net/">mlri.net</a>
-    </p>
-    <p>
-      This page serves as a journal archive. Peer-review status,
-      publication dates, and identifiers should be stated for each
-      paper only when formally established.
+    <p data-i18n="scopeText">
+      Its areas of interest include human self and mind, consciousness,
+      economic models, archaeology, engineering, philosophy, and
+      interdisciplinary research.
     </p>
   </section>
+
+  <h2 class="section-heading" id="issues" data-i18n="issuesTitle">
+    Journal Issues
+  </h2>
+
+  <div class="issues" id="issuesContainer"></div>
+
+  <section class="panel" style="margin-top:32px">
+    <h2 data-i18n="publicationTitle">Publication Information</h2>
+    <p><strong data-i18n="publisherLabel">Publisher:</strong>
+      Metaphysical Light Research Institute (MLRI)</p>
+    <p><strong data-i18n="founderLabel">Founder and Researcher:</strong>
+      Ameen Khalid Ameen Malaysheh</p>
+    <p><strong data-i18n="frequencyLabel">Publication schedule:</strong>
+      <span data-i18n="frequencyValue">Quarterly</span></p>
+    <p><strong data-i18n="websiteLabel">Official website:</strong>
+      <a href="https://mlri.net/">mlri.net</a></p>
+    <p class="note" data-i18n="archiveNote">
+      Archive information and original dates are presented as supplied.
+      Peer-review status, international recognition, and publication
+      identifiers must be verified independently before being claimed.
+    </p>
+  </section>
+
 </main>
 
 <footer>
   © <span id="year">2026</span>
-  Metaphysical Light Research Institute (MLRI).
-  All rights reserved.
+  <span data-i18n="footerName">Metaphysical Light Research Institute (MLRI)</span>
+  · <span data-i18n="rights">All rights reserved.</span>
 </footer>
 
 <script>
-let arabicMode = false;
+const translations = {
+  en: {
+    home:"Institute Homepage ↗",
+    journalTitle:"MLRI Journal for Interdisciplinary Research",
+    tagline:"An interdisciplinary research journal exploring ideas across human sciences, consciousness, archaeology, engineering, and economics.",
+    browseIssues:"Browse Journal Issues ↓",
+    visitInstitute:"Visit MLRI",
+    aboutTitle:"About the Journal",
+    aboutText:"The MLRI Journal for Interdisciplinary Research provides an organized archive of research associated with the intellectual and research vision of the Metaphysical Light Research Institute.",
+    scopeText:"Its areas of interest include human self and mind, consciousness, economic models, archaeology, engineering, philosophy, and interdisciplinary research.",
+    issuesTitle:"Journal Issues",
+    publicationTitle:"Publication Information",
+    publisherLabel:"Publisher:",
+    founderLabel:"Founder and Researcher:",
+    frequencyLabel:"Publication schedule:",
+    frequencyValue:"Quarterly",
+    websiteLabel:"Official website:",
+    archiveNote:"Archive information and original dates are presented as supplied. Peer-review status, international recognition, and publication identifiers must be verified independently before being claimed.",
+    footerName:"Metaphysical Light Research Institute (MLRI)",
+    rights:"All rights reserved.",
+    languageButton:"العربية",
+    issue:"ISSUE",
+    archive:"Research archive",
+    author:"Researcher",
+    paperCount:"research papers",
+    issue1:"Foundational Research",
+    issue2:"Second Quarterly Issue",
+    issue3:"Third Quarterly Issue",
+    issue4:"Fourth Quarterly Issue",
+    issue1Desc:"Opening issue · December 2025 archive",
+    issue2Desc:"Research archive — March 2026",
+    issue3Desc:"Research archive — June 2026",
+    issue4Desc:"Research archive — September 2026",
+    originalDate:"Original archive date",
+    statusNote:"The English renderings of some titles are provisional descriptions based on the supplied Arabic topics, not confirmed original paper titles."
+  },
+  ar: {
+    home:"الصفحة الرئيسية للمعهد ↗",
+    journalTitle:"مجلة معهد نور الماورائيات للبحوث متعددة التخصصات",
+    tagline:"مجلة بحثية متعددة التخصصات تستكشف موضوعات العلوم الإنسانية والوعي والآثار والهندسة والاقتصاد.",
+    browseIssues:"تصفح أعداد المجلة ↓",
+    visitInstitute:"زيارة موقع المعهد",
+    aboutTitle:"عن المجلة",
+    aboutText:"توفر مجلة معهد نور الماورائيات للبحوث متعددة التخصصات أرشيفًا منظمًا للأبحاث المرتبطة بالرؤية الفكرية والبحثية للمعهد.",
+    scopeText:"تشمل مجالات الاهتمام النفس البشرية والعقل والوعي والنماذج الاقتصادية والآثار والهندسة والفلسفة والبحوث متعددة التخصصات.",
+    issuesTitle:"أعداد المجلة",
+    publicationTitle:"معلومات النشر",
+    publisherLabel:"الناشر:",
+    founderLabel:"المؤسس والباحث:",
+    frequencyLabel:"دورية الإصدار:",
+    frequencyValue:"فصلية",
+    websiteLabel:"الموقع الرسمي:",
+    archiveNote:"تُعرض معلومات الأرشفة والتواريخ الأصلية وفق البيانات المقدمة. يجب التحقق بصورة مستقلة من التحكيم العلمي والاعتراف الدولي ومعرّفات النشر قبل الادعاء بها.",
+    footerName:"معهد نور الماورائيات للبحوث (MLRI)",
+    rights:"جميع الحقوق محفوظة.",
+    languageButton:"English",
+    issue:"العدد",
+    archive:"أرشيف الأبحاث",
+    author:"الباحث",
+    paperCount:"أبحاث",
+    issue1:"الأبحاث التأسيسية",
+    issue2:"العدد الفصلي الثاني",
+    issue3:"العدد الفصلي الثالث",
+    issue4:"العدد الفصلي الرابع",
+    issue1Desc:"العدد الافتتاحي · أرشيف ديسمبر 2025",
+    issue2Desc:"أرشيف الأبحاث — مارس 2026",
+    issue3Desc:"أرشيف الأبحاث — يونيو 2026",
+    issue4Desc:"أرشيف الأبحاث — سبتمبر 2026",
+    originalDate:"تاريخ الأرشفة الأصلي",
+    statusNote:"بعض الصياغات الإنجليزية للعناوين أوصاف مبدئية مبنية على المحاور العربية المقدمة، وليست عناوين أصلية مؤكدة للأبحاث."
+  }
+};
+
+const issues = [
+  {
+    number:"01",
+    period:"December 2025 – February 2026",
+    periodAr:"ديسمبر 2025 – فبراير 2026",
+    titleKey:"issue1",
+    descKey:"issue1Desc",
+    papers:[
+      {
+        ar:"نموذج ملايشه لبنية النفس البشرية ونظام العقل: دراسة تحليلية في الجوهر، والوعي، والآليات الإدراكية.",
+        en:"Malaysheh Theory on the Nature of the Human Inner Self and the Mind System: An Analytical Study of Essence, Consciousness, and Cognitive Mechanisms",
+        date:"8 December 2025",
+        dateAr:"8 ديسمبر 2025"
+      },
+      {
+        ar:"بنك الأمم للمقايضة: رؤية اقتصادية عالمية شاملة لاجتثاث الفقر وإعادة هيكلة التبادل القيمي والسلعي اللامركزي.",
+        en:"The Nations' Barter Bank: A Comprehensive Global Economic Vision for the Eradication of Poverty and Restructuring Decentralized Value and Commodity Exchange",
+        date:"December 2025",
+        dateAr:"ديسمبر 2025"
+      },
+      {
+        ar:"نظرية القوالب الطينية في سر بناء الأهرامات: إطار أركيولوجي وهندسي جديد لتفسير التشييد الحجري القديم.",
+        en:"The Clay-Mold Theory of Pyramid Construction: A New Archaeological and Engineering Framework Explaining Ancient Stone Architecture",
+        date:"November–December 2025",
+        dateAr:"نوفمبر–ديسمبر 2025"
+      },
+      {
+        ar:"رؤية جامعة هدي الأنبياء للعلوم الإنسانية والكونية: التأسيس المعرفي والأكاديمي والرسالة العالمية (رؤية 1).",
+        en:"Vision of Prophets' Guidance University for Human and Cosmic Sciences: Epistemological Founding, Academic Framework, and Global Mission (Vision 1)",
+        date:"December 2025",
+        dateAr:"ديسمبر 2025"
+      }
+    ]
+  },
+  {
+    number:"02",
+    period:"April – June 2026",
+    periodAr:"أبريل – يونيو 2026",
+    titleKey:"issue2",
+    descKey:"issue2Desc",
+    papers:[
+      {ar:"التشوه المعرفي للذات",en:"Cognitive Distortion of the Self"},
+      {ar:"النرجسية كنظام خفي",en:"Narcissism as a Hidden System"},
+      {ar:"استقلالية الفرد",en:"Individual Autonomy"},
+      {ar:"تفسير البنية العميقة للسحر",en:"An Interpretation of the Deep Structure of Sorcery"}
+    ]
+  },
+  {
+    number:"03",
+    period:"July – September 2026",
+    periodAr:"يوليو – سبتمبر 2026",
+    titleKey:"issue3",
+    descKey:"issue3Desc",
+    papers:[
+      {ar:"السرد الفلسفي الغنوصي",en:"The Gnostic Philosophical Narrative"},
+      {ar:"فرضية واقع النرجسية",en:"The Reality Hypothesis of Narcissism"},
+      {ar:"دورة التنظيم السياسي",en:"The Political Organization Cycle"},
+      {ar:"دراسة الثوب والرقع",en:"A Study of the Garment and Patches"}
+    ]
+  },
+  {
+    number:"04",
+    period:"October – December 2026",
+    periodAr:"أكتوبر – ديسمبر 2026",
+    titleKey:"issue4",
+    descKey:"issue4Desc",
+    papers:[
+      {ar:"الإنسان كموضوع للتجربة",en:"The Human Being as a Subject of Experimentation"},
+      {ar:"شهادة للتاريخ والنزاهة",en:"A Testimony to History and Integrity"},
+      {ar:"البيئات الاجتماعية المختلة وآليات كشط الضحايا",en:"Dysfunctional Social Environments and Mechanisms of Victim Erasure"}
+    ]
+  }
+];
+
+let currentLanguage = "en";
+
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, char => ({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#39;"
+  })[char]);
+}
+
+function renderIssues() {
+  const t = translations[currentLanguage];
+  const isArabic = currentLanguage === "ar";
+
+  document.getElementById("issuesContainer").innerHTML =
+    issues.map(issue => `
+      <section class="issue" dir="${isArabic ? "rtl" : "ltr"}">
+        <div class="issue-number">${escapeHTML(t.issue)} ${issue.number}</div>
+        <h2>${escapeHTML(t[issue.titleKey])}</h2>
+        <div class="issue-period">${escapeHTML(isArabic ? issue.periodAr : issue.period)}</div>
+        <p class="issue-description">${escapeHTML(t[issue.descKey])}</p>
+
+        ${issue.papers.map((paper,index) => `
+          <article class="paper">
+            <h3>${index+1}. ${escapeHTML(isArabic ? paper.ar : paper.en)}</h3>
+            <p class="paper-title-ar" lang="ar" dir="rtl"
+              ${isArabic ? "" : 'hidden'}>${escapeHTML(paper.ar)}</p>
+            <p class="paper-title-en" lang="en"
+              ${isArabic ? 'hidden' : ""}>${escapeHTML(paper.en)}</p>
+            ${paper.date ? `
+              <p class="muted">
+                <strong>${escapeHTML(t.originalDate)}:</strong>
+                ${escapeHTML(isArabic ? paper.dateAr : paper.date)}
+              </p>` : ""}
+            <p class="author">${escapeHTML(t.author)}:
+              Ameen Khalid Ameen Malaysheh</p>
+          </article>
+        `).join("")}
+      </section>
+    `).join("");
+}
 
 function toggleLanguage() {
-  arabicMode = !arabicMode;
+  currentLanguage = currentLanguage === "en" ? "ar" : "en";
+  document.documentElement.lang = currentLanguage;
+  document.documentElement.dir = currentLanguage === "ar" ? "rtl" : "ltr";
 
-  document.documentElement.lang = arabicMode ? "ar" : "en";
-  document.documentElement.dir = arabicMode ? "rtl" : "ltr";
-
-  document.getElementById("englishIntro").hidden = arabicMode;
-  document.getElementById("arabicIntro").hidden = !arabicMode;
+  document.querySelectorAll("[data-i18n]").forEach(element => {
+    const key = element.getAttribute("data-i18n");
+    if (translations[currentLanguage][key]) {
+      element.textContent = translations[currentLanguage][key];
+    }
+  });
 
   document.getElementById("languageButton").textContent =
-    arabicMode ? "English" : "العربية";
+    translations[currentLanguage].languageButton;
 
-  document.getElementById("issuesHeading").textContent =
-    arabicMode ? "أعداد المجلة" : "Journal Issues";
+  renderIssues();
 }
+
+document.getElementById("year").textContent = new Date().getFullYear();
+renderIssues();
 </script>
 
 </body>
 </html>
+
