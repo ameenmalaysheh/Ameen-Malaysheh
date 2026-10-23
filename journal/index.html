@@ -1,0 +1,279 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Ameen Khalid Ameen Malaysheh">
+<meta name="description" content="MLRI Journal for Interdisciplinary Research">
+<title>MLRI Journal for Interdisciplinary Research</title>
+
+<style>
+:root {
+  --bg:#062d20;
+  --bg2:#031f16;
+  --panel:#084632;
+  --gold:#e5c77a;
+  --cream:#f4eedc;
+  --muted:#c9d2c7;
+  --line:rgba(229,199,122,.38);
+}
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body {
+  margin:0;
+  background:linear-gradient(145deg,var(--bg),var(--bg2));
+  color:var(--cream);
+  font-family:Arial,sans-serif;
+  line-height:1.7;
+}
+a { color:var(--gold); text-decoration:none; }
+header {
+  text-align:center;
+  padding:42px 20px 30px;
+  border-bottom:1px solid var(--line);
+}
+.brand {
+  color:var(--gold);
+  font-size:12px;
+  letter-spacing:3px;
+  font-weight:bold;
+}
+h1 {
+  font-family:Georgia,serif;
+  font-size:clamp(28px,5vw,46px);
+  line-height:1.2;
+  margin:16px auto;
+  max-width:900px;
+}
+.subtitle {
+  color:var(--muted);
+  max-width:700px;
+  margin:0 auto 22px;
+}
+button,.home-link {
+  border:1px solid var(--gold);
+  border-radius:999px;
+  padding:10px 17px;
+  font-weight:bold;
+  cursor:pointer;
+  display:inline-block;
+  font-size:13px;
+}
+button {
+  color:var(--bg);
+  background:var(--gold);
+}
+.home-link {
+  color:var(--gold);
+  margin:5px;
+}
+main {
+  width:min(1050px,92%);
+  margin:35px auto 60px;
+}
+.intro,.issue,.paper {
+  background:rgba(8,70,50,.65);
+  border:1px solid var(--line);
+  border-radius:15px;
+  padding:22px;
+  margin-bottom:22px;
+}
+h2,h3 { color:var(--gold); }
+h2 { margin-top:0; }
+.issues {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:16px;
+}
+.issue { margin:0; }
+.issue-label {
+  color:var(--gold);
+  font-size:12px;
+  font-weight:bold;
+  letter-spacing:1px;
+}
+.paper {
+  background:rgba(3,31,22,.55);
+  margin:15px 0 0;
+  padding:18px;
+}
+.paper h3 { margin-top:5px; }
+.paper p { color:var(--muted); }
+.author {
+  font-size:13px;
+  color:var(--muted);
+}
+footer {
+  text-align:center;
+  padding:25px 15px;
+  border-top:1px solid var(--line);
+  color:var(--muted);
+  font-size:13px;
+}
+[hidden] { display:none !important; }
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="brand">METAPHYSICAL LIGHT RESEARCH INSTITUTE · MLRI</div>
+  <h1>MLRI Journal for Interdisciplinary Research</h1>
+  <p class="subtitle">
+    An interdisciplinary research publication of the
+    Metaphysical Light Research Institute.
+  </p>
+  <a class="home-link" href="/">INSTITUTE HOMEPAGE ↗</a>
+  <button id="languageButton" type="button" onclick="toggleLanguage()">
+    العربية
+  </button>
+</header>
+
+<main>
+  <section class="intro">
+    <div id="englishIntro">
+      <h2>About the Journal</h2>
+      <p>
+        The MLRI Journal for Interdisciplinary Research presents research
+        and theoretical frameworks across human sciences, consciousness,
+        archaeology, engineering, economics, and interdisciplinary studies.
+      </p>
+      <p>
+        The journal provides an organized archive of research associated
+        with the intellectual and research vision of MLRI.
+      </p>
+    </div>
+
+    <div id="arabicIntro" dir="rtl" lang="ar" hidden>
+      <h2>عن المجلة</h2>
+      <p>
+        تعرض مجلة معهد نور الماورائيات للبحوث متعددة التخصصات
+        أبحاثًا وأطرًا نظرية في العلوم الإنسانية والوعي والآثار
+        والهندسة والاقتصاد والدراسات متعددة التخصصات.
+      </p>
+      <p>
+        توفر المجلة أرشيفًا منظمًا للأبحاث المرتبطة بالرؤية الفكرية
+        والبحثية لمعهد نور الماورائيات للبحوث.
+      </p>
+    </div>
+  </section>
+
+  <h2 id="issuesHeading">Journal Issues</h2>
+
+  <div class="issues">
+
+    <section class="issue">
+      <div class="issue-label">ISSUE 01 · 2025</div>
+      <h2>Foundational Research</h2>
+      <p>Research archive · December 2025</p>
+
+      <article class="paper">
+        <h3>1. Malaysheh Theory on the Nature of the Human Inner Self and the Mind System</h3>
+        <p>
+          An Analytical Study of Essence, Consciousness, and Cognitive Mechanisms.
+        </p>
+        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
+      </article>
+
+      <article class="paper">
+        <h3>2. The Nations' Barter Bank</h3>
+        <p>
+          A Comprehensive Global Economic Vision for the Eradication
+          of Poverty and Restructuring Decentralized Value and Commodity Exchange.
+        </p>
+        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
+      </article>
+
+      <article class="paper">
+        <h3>3. The Clay-Mold Theory of Pyramid Construction</h3>
+        <p>
+          A New Archaeological and Engineering Framework Explaining
+          Ancient Stone Architecture.
+        </p>
+        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
+      </article>
+
+      <article class="paper">
+        <h3>4. Vision of Prophets' Guidance University for Human and Cosmic Sciences</h3>
+        <p>
+          Epistemological Founding, Academic Framework, and Global Mission
+          (Vision 1).
+        </p>
+        <p class="author">Author: Ameen Khalid Ameen Malaysheh</p>
+      </article>
+    </section>
+
+    <section class="issue">
+      <div class="issue-label">ISSUE 02 · APRIL–JUNE</div>
+      <h2>Second Quarterly Issue</h2>
+      <p>Reserved for research assigned to this issue.</p>
+    </section>
+
+    <section class="issue">
+      <div class="issue-label">ISSUE 03 · JULY–SEPTEMBER</div>
+      <h2>Third Quarterly Issue</h2>
+      <p>Reserved for research assigned to this issue.</p>
+    </section>
+
+    <section class="issue">
+      <div class="issue-label">ISSUE 04 · OCTOBER–DECEMBER</div>
+      <h2>Fourth Quarterly Issue</h2>
+      <p>Reserved for research assigned to this issue.</p>
+    </section>
+
+  </div>
+
+  <section class="intro" style="margin-top:25px">
+    <h2>Publication Information</h2>
+    <p>
+      <strong>Publisher:</strong>
+      Metaphysical Light Research Institute (MLRI)
+    </p>
+    <p>
+      <strong>Founder and Author:</strong>
+      Ameen Khalid Ameen Malaysheh
+    </p>
+    <p>
+      <strong>Publication frequency:</strong> Quarterly
+    </p>
+    <p>
+      <strong>Official website:</strong>
+      <a href="https://mlri.net/">mlri.net</a>
+    </p>
+    <p>
+      This page serves as a journal archive. Peer-review status,
+      publication dates, and identifiers should be stated for each
+      paper only when formally established.
+    </p>
+  </section>
+</main>
+
+<footer>
+  © <span id="year">2026</span>
+  Metaphysical Light Research Institute (MLRI).
+  All rights reserved.
+</footer>
+
+<script>
+let arabicMode = false;
+
+function toggleLanguage() {
+  arabicMode = !arabicMode;
+
+  document.documentElement.lang = arabicMode ? "ar" : "en";
+  document.documentElement.dir = arabicMode ? "rtl" : "ltr";
+
+  document.getElementById("englishIntro").hidden = arabicMode;
+  document.getElementById("arabicIntro").hidden = !arabicMode;
+
+  document.getElementById("languageButton").textContent =
+    arabicMode ? "English" : "العربية";
+
+  document.getElementById("issuesHeading").textContent =
+    arabicMode ? "أعداد المجلة" : "Journal Issues";
+}
+</script>
+
+</body>
+</html>
